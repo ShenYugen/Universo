@@ -9895,6 +9895,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-03-16 23:47:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-03-16 23:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2025-03-16 23:39:53 +0000"
@@ -9913,11 +9925,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-03-16 23:47:55 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/journeys_end": {
+    "criteria": {
+      "target_advancement_done_13": "2025-03-16 23:53:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-03-16 23:38:17 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:the_queens_desire/terror_fangs": {
+    "criteria": {
+      "cave_spider_killed": "2025-03-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-16 23:54:15 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-03-16 23:52:35 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
