@@ -10265,6 +10265,12 @@
     },
     "done": true
   },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-03-17 19:42:53 +0000"
+    },
+    "done": true
+  },
   "incendium:ash_barrens/conquer_castle": {
     "criteria": {
       "requirement": "2025-03-17 18:38:10 +0000"
@@ -10280,6 +10286,12 @@
   "incendium:ash_barrens/enter_castle": {
     "criteria": {
       "requirement": "2025-03-17 18:37:51 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-03-17 19:42:33 +0000"
     },
     "done": true
   },
@@ -10364,6 +10376,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-03-17 19:05:36 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-03-17 19:42:33 +0000"
     },
     "done": true
   },
