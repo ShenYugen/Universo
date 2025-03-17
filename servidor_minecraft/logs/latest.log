@@ -1380,3 +1380,114 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [17Mar2025 18:18:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -3269.500000, 72.500000, -16722.500000]
 [17Mar2025 18:23:33.174] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Failed to apply component patch '{minecraft:potion_contents=>PotionContents[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:long_regeneration]=net.minecraft.world.item.alchemy.Potion@59c126af}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 2 was larger than maximum: 1'
 [17Mar2025 18:24:16.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[17Mar2025 18:28:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 191.500000, 43.500000, 47.500000]
+[17Mar2025 18:28:44.878] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[17Mar2025 18:28:44.879] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[17Mar2025 18:28:44.880] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[17Mar2025 18:31:08.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -7.252160394721528,-2.66759077637996,6.897472580193039
+[17Mar2025 18:31:10.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -9.412341548726232,-1.5926045976350593,5.3025559084753695
+[17Mar2025 18:31:28.598] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12475, l='ServerLevel[world]', x=-204.00, y=31.00, z=565.00] as it would cause deadlock
+[17Mar2025 18:31:29.868] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:31:37.461] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Failed to parse either. First: Failed to parse either. First: Not a string: null; Second: Not a json array: null; Second: Not a JSON object: null missed input: {"minecraft:lore":['{"italic":true,"color":"#4400AA","text":"Feel its electrical power"}',"",'{"translate":"Incendium","color":"#FF8000","italic":true}']}'
+[17Mar2025 18:31:37.721] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12641, l='ServerLevel[world]', x=68.26, y=36.50, z=554.01] as it would cause deadlock
+[17Mar2025 18:31:39.333] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:31:39.337] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:31:39.384] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:31:40.313] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:31:40.396] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:31:40.398] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:31:49.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Dust Settles]
+[17Mar2025 18:31:54.697] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/lumber_c -> incendium:castle/decor/lumber_c
+[17Mar2025 18:31:54.890] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.890] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.891] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.891] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.891] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.892] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.911] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/house_1x1 -> incendium:castle/roof_1x1 -> incendium:castle/roof_1x1
+[17Mar2025 18:31:54.912] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.912] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.912] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.913] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.913] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.913] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.914] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.914] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.914] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.915] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.915] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.915] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.915] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.965] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/farms -> incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.968] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.968] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.969] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.969] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.969] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.970] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.970] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.970] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.970] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.971] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.971] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.971] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.971] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.972] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.972] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.972] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.972] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.973] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.973] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[17Mar2025 18:31:54.975] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/house_1x1 -> incendium:castle/roof_1x1 -> incendium:castle/roof_1x1
+[17Mar2025 18:31:55.136] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/strider/pools -> incendium:castle/strider/pools
+[17Mar2025 18:31:55.139] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/strider/pools -> incendium:castle/strider/pools
+[17Mar2025 18:31:55.142] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/strider/pools -> incendium:castle/strider/pools
+[17Mar2025 18:31:55.143] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/strider/pools -> incendium:castle/strider/pools
+[17Mar2025 18:31:55.368] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/brewing/farms_small -> incendium:castle/decor/brewing/farms -> incendium:castle/decor/brewing/farms
+[17Mar2025 18:31:55.385] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/brewing/farms_small_w -> incendium:castle/decor/brewing/farms_small_w
+[17Mar2025 18:32:13.386] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13134, l='ServerLevel[world]', x=-8.00, y=31.00, z=862.00] as it would cause deadlock
+[17Mar2025 18:32:16.476] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13160, l='ServerLevel[world]', x=-47.00, y=31.00, z=895.00] as it would cause deadlock
+[17Mar2025 18:32:36.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Floor is Tears]
+[17Mar2025 18:32:37.245] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:32:37.246] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:32:44.366] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13626, l='ServerLevel[world]', x=-1.00, y=31.00, z=1170.00] as it would cause deadlock
+[17Mar2025 18:33:38.994] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:38.995] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:39.435] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:39.436] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:44.743] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:44.744] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:49.504] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:55.112] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:55.112] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:55.160] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:33:55.164] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:34:08.519] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:34:08.521] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:34:08.600] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:34:08.603] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:34:08.603] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:34:20.011] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14680, l='ServerLevel[world]', x=-147.00, y=107.00, z=1649.00] as it would cause deadlock
+[17Mar2025 18:35:05.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/13495, l='ServerLevel[world]', x=-40.00, y=-20.00, z=976.24] died: Toxic Slime was killed
+[17Mar2025 18:35:05.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/13496, l='ServerLevel[world]', x=-37.17, y=-20.00, z=986.40] died: Toxic Slime was killed
+[17Mar2025 18:35:10.952] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:11.014] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:15.413] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:15.503] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:18.063] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:18.064] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:18.920] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:18.921] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:19.777] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:19.779] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:19.779] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:19.784] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:19.914] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:21.311] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:21.313] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:21.445] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:21.446] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:22.889] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Mar2025 18:35:25.028] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15401, l='ServerLevel[world]', x=185.00, y=31.00, z=1101.00] as it would cause deadlock
+[17Mar2025 18:35:35.717] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15514, l='ServerLevel[world]', x=196.00, y=32.00, z=1021.00] as it would cause deadlock
+[17Mar2025 18:35:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [A Terrible Fortress]
