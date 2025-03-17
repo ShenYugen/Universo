@@ -10295,6 +10295,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-17 19:51:10 +0000"
+    },
+    "done": true
+  },
   "mekanismadditions:not_the_babies": {
     "criteria": {
       "baby_enderman": "2025-03-17 19:14:22 +0000"
@@ -10304,6 +10310,12 @@
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-03-17 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-17 19:51:10 +0000"
     },
     "done": true
   },
@@ -10361,6 +10373,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-17 19:51:10 +0000"
+    },
+    "done": true
+  },
   "mekanism:factory": {
     "criteria": {
       "factory": "2025-03-17 17:44:01 +0000"
@@ -10394,6 +10412,12 @@
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2025-03-17 17:10:31 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-03-17 19:47:20 +0000"
     },
     "done": true
   },

@@ -2241,3 +2241,9 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [17Mar2025 19:45:33.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 1251.500000, 125.500000, 539.500000]
 [17Mar2025 19:45:49.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [17Mar2025 19:45:56.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6986ms or 139 ticks behind
+[17Mar2025 19:47:20.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Gotta Capture Them All!]
+[17Mar2025 19:47:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 1251.500000, 125.500000, 539.500000]
+[17Mar2025 19:48:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[17Mar2025 19:48:26.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7071ms or 141 ticks behind
+[17Mar2025 19:51:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[17Mar2025 19:54:31.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]

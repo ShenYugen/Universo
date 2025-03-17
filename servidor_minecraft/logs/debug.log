@@ -16912,3 +16912,22 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [17Mar2025 19:45:50.135] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
 [17Mar2025 19:45:50.135] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 6(0) Rooms
 [17Mar2025 19:45:56.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6986ms or 139 ticks behind
+[17Mar2025 19:47:20.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Gotta Capture Them All!]
+[17Mar2025 19:47:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 1251.500000, 125.500000, 539.500000]
+[17Mar2025 19:48:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[17Mar2025 19:48:20.251] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (1060 | 56 | 484).
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 6(0) Rooms
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 6(6) Nodes and 4(0) Rooms
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(2) Nodes and 5(0) Rooms
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[17Mar2025 19:48:20.252] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 6(0) Rooms
+[17Mar2025 19:48:26.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7071ms or 141 ticks behind
+[17Mar2025 19:50:59.188] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 19:51:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[17Mar2025 19:54:31.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[17Mar2025 19:55:59.186] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
