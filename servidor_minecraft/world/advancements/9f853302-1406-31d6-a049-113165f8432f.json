@@ -10087,6 +10087,12 @@
     },
     "done": true
   },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-03-17 00:50:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-03-17 00:05:09 +0000"
@@ -10153,6 +10159,12 @@
     },
     "done": true
   },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2025-03-17 00:52:13 +0000"
+    },
+    "done": true
+  },
   "integratedterminals:storage_terminal/gui_storage_terminal": {
     "criteria": {
       "criteria_0": "2025-03-17 00:29:56 +0000"
@@ -10186,6 +10198,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-03-17 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-03-17 00:47:06 +0000"
     },
     "done": true
   },
