@@ -10250,6 +10250,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_diamond_barrel": "2025-03-17 18:11:36 +0000"
+    },
+    "done": true
+  },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "upgrade_anchor": "2025-03-17 18:08:07 +0000"
+    },
+    "done": false
+  },
   "mekanism:factory": {
     "criteria": {
       "factory": "2025-03-17 17:44:01 +0000"

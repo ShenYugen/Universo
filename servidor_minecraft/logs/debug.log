@@ -15502,3 +15502,11 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Mar2025 17:55:17.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Quantum Entanglement]
 [17Mar2025 18:00:10.966] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Mar2025 18:05:10.969] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 18:09:03.625] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Attempting to add 1 chunk tickets. Pos: BlockPos{x=314, y=147, z=-15492} World: minecraft:overworld
+[17Mar2025 18:10:10.969] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 18:14:00.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 477.500000, 79.500000, -16013.500000]
+[17Mar2025 18:14:29.794] [Worker-Main-3/DEBUG] [oritech/]: placing resource node at BlockPos{x=580, y=49, z=-16280} with deep BlockPos{x=580, y=-60, z=-16280}
+[17Mar2025 18:14:38.299] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=655, y=36, z=-16341} with deep BlockPos{x=655, y=-61, z=-16341}
+[17Mar2025 18:15:11.012] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 18:15:12.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -3269.500000, 72.500000, -16722.500000]
+[17Mar2025 18:15:15.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
