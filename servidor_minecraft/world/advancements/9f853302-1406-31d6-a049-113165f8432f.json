@@ -10259,6 +10259,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/ultimate_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-03-17 20:17:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-03-17 19:05:36 +0000"
@@ -10274,6 +10280,18 @@
   "incendium:ash_barrens/conquer_castle": {
     "criteria": {
       "requirement": "2025-03-17 18:38:10 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/single_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-03-17 20:17:41 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/advanced_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-03-17 20:17:41 +0000"
     },
     "done": true
   },
