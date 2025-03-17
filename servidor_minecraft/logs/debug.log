@@ -15552,3 +15552,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Mar2025 01:50:57.013] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Mar2025 01:54:35.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Burn the Gas]
 [17Mar2025 01:55:57.018] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 01:59:55.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 328.500000, 315.500000, -15421.500000]
+[17Mar2025 02:00:57.016] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 02:03:32.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 328.500000, 315.500000, -15421.500000]
+[17Mar2025 02:03:54.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[17Mar2025 02:05:57.015] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

@@ -10021,6 +10021,12 @@
     },
     "done": true
   },
+  "mekanism:pump": {
+    "criteria": {
+      "electric_pump": "2025-03-17 01:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-17 00:05:09 +0000"
