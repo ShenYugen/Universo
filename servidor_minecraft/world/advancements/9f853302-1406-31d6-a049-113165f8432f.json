@@ -10379,6 +10379,12 @@
     },
     "done": true
   },
+  "integratedtunnels:interfaces/interface_energy": {
+    "criteria": {
+      "criteria_0": "2025-03-17 20:10:13 +0000"
+    },
+    "done": true
+  },
   "mekanism:factory": {
     "criteria": {
       "factory": "2025-03-17 17:44:01 +0000"
