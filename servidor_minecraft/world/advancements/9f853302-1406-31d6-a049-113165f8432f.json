@@ -10250,6 +10250,12 @@
     },
     "done": true
   },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-03-17 17:44:01 +0000"
+    },
+    "done": true
+  },
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2025-03-17 17:10:31 +0000"
