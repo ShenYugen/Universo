@@ -15497,3 +15497,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Mar2025 00:05:57.017] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Mar2025 00:06:27.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Perfect Foundation]
 [17Mar2025 00:07:43.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Alloy That Started it All]
+[17Mar2025 00:08:52.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Tricking a Rock Into Thinking]
+[17Mar2025 00:10:57.022] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 00:15:57.015] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

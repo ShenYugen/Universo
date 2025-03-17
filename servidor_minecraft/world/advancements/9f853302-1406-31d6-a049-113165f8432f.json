@@ -9901,6 +9901,12 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-03-17 00:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-17 00:05:09 +0000"
@@ -9910,6 +9916,18 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-03-17 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "cardboard_box": "2025-03-17 00:15:02 +0000"
+    },
+    "done": false
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-03-17 00:07:43 +0000"
     },
     "done": true
   },
@@ -10015,6 +10033,12 @@
     },
     "done": false
   },
+  "mekanism:sawmill": {
+    "criteria": {
+      "precision_sawmill": "2025-03-17 00:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-03-17 00:05:09 +0000"
@@ -10048,6 +10072,12 @@
   "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-03-17 00:05:13 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-03-17 00:06:27 +0000"
     },
     "done": true
   },
