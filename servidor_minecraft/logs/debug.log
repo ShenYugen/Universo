@@ -15527,3 +15527,15 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Mar2025 01:09:07.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Trapped Inside]
 [17Mar2025 01:10:57.014] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Mar2025 01:15:57.015] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 01:20:57.013] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 01:20:57.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen fell from a high place
+[17Mar2025 01:20:57.476] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:326, y:198, z:-15424, dim:minecraft:overworld]
+[17Mar2025 01:20:57.495] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[17Mar2025 01:20:58.647] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[17Mar2025 01:21:14.976] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[17Mar2025 01:21:14.976] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:gameplay.CooldownInstanceAccessor from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[17Mar2025 01:24:33.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 328.500000, 315.500000, -15421.500000]
+[17Mar2025 01:25:57.009] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 01:26:26.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[17Mar2025 01:27:25.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 328.500000, 315.500000, -15421.500000]
+[17Mar2025 01:28:32.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
