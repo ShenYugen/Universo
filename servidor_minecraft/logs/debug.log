@@ -15507,3 +15507,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Mar2025 00:25:38.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Variable Input Transformation]
 [17Mar2025 00:25:57.014] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Mar2025 00:26:02.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Variable Output Transformation]
+[17Mar2025 00:28:46.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Glass of Illumination]
+[17Mar2025 00:29:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Value Displaying]
+[17Mar2025 00:29:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The creation of the Storage Terminal]
+[17Mar2025 00:29:56.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [GUI Simulator 9000]
+[17Mar2025 00:30:57.017] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 00:35:57.016] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

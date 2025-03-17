@@ -9949,6 +9949,12 @@
     },
     "done": true
   },
+  "integrateddynamics:network_foundations/variable_output": {
+    "criteria": {
+      "criteria_0": "2025-03-17 00:26:02 +0000"
+    },
+    "done": true
+  },
   "integratedscripting:root": {
     "criteria": {
       "criteria_0": "2025-03-17 00:24:12 +0000"
@@ -10039,6 +10045,12 @@
     },
     "done": true
   },
+  "integrateddynamics:basic_network_components/value_displaying": {
+    "criteria": {
+      "criteria_0": "2025-03-17 00:29:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2025-03-16 23:47:55 +0000"
@@ -10081,6 +10093,12 @@
     },
     "done": true
   },
+  "integratedterminals:root": {
+    "criteria": {
+      "criteria_0": "2025-03-17 00:29:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-17 00:05:09 +0000"
@@ -10096,6 +10114,12 @@
   "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-03-17 00:05:13 +0000"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/craft_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2025-03-17 00:29:44 +0000"
     },
     "done": true
   },
@@ -10120,6 +10144,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-16 23:58:20 +0000"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/gui_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2025-03-17 00:29:56 +0000"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/menril_glass": {
+    "criteria": {
+      "criteria_0": "2025-03-17 00:28:46 +0000"
     },
     "done": true
   },
