@@ -10256,6 +10256,12 @@
     },
     "done": true
   },
+  "mekanism:quantum_entangloporter": {
+    "criteria": {
+      "quantum_entangloporter": "2025-03-17 17:55:17 +0000"
+    },
+    "done": true
+  },
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2025-03-17 17:10:31 +0000"
