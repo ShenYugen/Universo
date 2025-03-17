@@ -10259,77 +10259,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
+      "has_salmon": "2025-03-17 19:05:36 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 19:05:30 +0000"
-    },
-    "done": false
+    "done": true
   },
   "incendium:ash_barrens/conquer_castle": {
     "criteria": {
@@ -10349,6 +10283,12 @@
     },
     "done": true
   },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_enderman": "2025-03-17 19:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-03-17 18:16:36 +0000"
@@ -10358,6 +10298,18 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-03-17 18:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-17 19:05:36 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-03-17 19:08:39 +0000"
     },
     "done": true
   },
@@ -10391,6 +10343,12 @@
     },
     "done": true
   },
+  "ars_nouveau:drygmy_charm": {
+    "criteria": {
+      "has_drygmy_charm": "2025-03-17 19:07:22 +0000"
+    },
+    "done": true
+  },
   "mekanism:factory": {
     "criteria": {
       "factory": "2025-03-17 17:44:01 +0000"
@@ -10403,6 +10361,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-17 19:05:36 +0000"
+    },
+    "done": true
+  },
   "mekanism:quantum_entangloporter": {
     "criteria": {
       "quantum_entangloporter": "2025-03-17 17:55:17 +0000"
@@ -10412,6 +10376,12 @@
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2025-03-17 17:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-17 19:05:36 +0000"
     },
     "done": true
   },
