@@ -10045,6 +10045,12 @@
     },
     "done": true
   },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-03-17 01:15:56 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:basic_network_components/value_displaying": {
     "criteria": {
       "criteria_0": "2025-03-17 00:29:29 +0000"
@@ -10066,6 +10072,12 @@
   "mekanism:sawmill": {
     "criteria": {
       "precision_sawmill": "2025-03-17 00:09:00 +0000"
+    },
+    "done": true
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2025-03-17 01:09:07 +0000"
     },
     "done": true
   },
