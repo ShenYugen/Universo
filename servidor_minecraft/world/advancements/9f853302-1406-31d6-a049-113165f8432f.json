@@ -10015,6 +10015,12 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-03-17 01:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-17 00:05:09 +0000"
