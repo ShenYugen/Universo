@@ -10105,6 +10105,12 @@
     },
     "done": true
   },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2025-03-17 00:41:37 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:the_queens_desire/terror_fangs": {
     "criteria": {
       "cave_spider_killed": "2025-03-16 23:53:51 +0000"
@@ -10168,6 +10174,12 @@
   "integrateddynamics:network_foundations/cables_logic": {
     "criteria": {
       "criteria_0": "2025-03-17 00:20:39 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-03-17 00:45:52 +0000"
     },
     "done": true
   },
