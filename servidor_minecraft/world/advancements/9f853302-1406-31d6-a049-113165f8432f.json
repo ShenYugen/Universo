@@ -10250,5 +10250,11 @@
     },
     "done": true
   },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-03-17 17:10:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
