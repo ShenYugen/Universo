@@ -16654,3 +16654,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.network.protocol.co
 [19Mar2025 19:09:49.910] [Worker-Main-4/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: Failed to get element cyclic:reach missed input: {"cyclic:reach":1} missed input: {"minecraft:stored_enchantments":{levels:{"cyclic:reach":1}}}
 [19Mar2025 19:10:56.671] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [19Mar2025 19:10:56.673] [Worker-Main-2/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: Failed to get element cyclic:reach missed input: {"cyclic:reach":1} missed input: {"minecraft:stored_enchantments":{levels:{"cyclic:reach":1}}}
+[19Mar2025 19:12:49.411] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:12:49.412] [Worker-Main-2/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: Failed to get element cyclic:reach missed input: {"cyclic:reach":1} missed input: {"minecraft:stored_enchantments":{levels:{"cyclic:reach":1}}}
+[19Mar2025 19:12:49.526] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:12:49.527] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:13:48.717] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:13:48.718] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:13:48.965] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:13:48.966] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:14:32.070] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Mar2025 19:18:42.247] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:18:42.253] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:19:32.079] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Mar2025 19:20:01.754] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fb1a3602: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19Mar2025 19:20:01.777] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fb1a3602: RandomSpreadSearchWorker succeeded with 10 radius, 1 samples
+[19Mar2025 19:20:24.418] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:20:25.084] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Mar2025 19:20:25.085] [Worker-Main-2/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: Failed to get element cyclic:reach missed input: {"cyclic:reach":1} missed input: {"minecraft:stored_enchantments":{levels:{"cyclic:reach":1}}}
