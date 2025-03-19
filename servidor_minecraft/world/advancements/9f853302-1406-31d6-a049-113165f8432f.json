@@ -10523,6 +10523,12 @@
     },
     "done": true
   },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-03-19 18:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-03-19 17:48:30 +0000"
