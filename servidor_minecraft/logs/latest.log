@@ -2202,3 +2202,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.network.protocol.co
 [19Mar2025 17:19:24.216] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fb1a3602: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [19Mar2025 17:19:27.463] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fb1a3602: RandomSpreadSearchWorker succeeded with 5497 radius, 44 samples
 [19Mar2025 17:19:27.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[19Mar2025 17:19:32.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShenYugen> Tengo boss
+[19Mar2025 17:19:38.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[19Mar2025 17:19:48.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego77> y yo no paro de pelear arañas, creo que hay un spawn cerca
+[19Mar2025 17:19:49.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShenYugen> Busca frosted
+[19Mar2025 17:20:22.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego77> que boss tienes?
+[19Mar2025 17:20:31.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Zombie
+[19Mar2025 17:20:31.542] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[19Mar2025 17:20:34.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego77> XDD
+[19Mar2025 17:20:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShenYugen> Frosted prison
+[19Mar2025 17:20:49.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Zombie
+[19Mar2025 17:20:49.495] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[19Mar2025 17:20:54.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShenYugen> Xd
+[19Mar2025 17:21:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego77> normal si estaba escribiendo
+[19Mar2025 17:21:16.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego77> que te dejo que la profe se pone detras para que no hagamos lo que no debemos
+[19Mar2025 17:21:17.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego77> xd
+[19Mar2025 17:21:22.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShenYugen> ok
+[19Mar2025 17:21:26.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 344.500000, 146.500000, -15542.500000]
+[19Mar2025 17:21:37.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 lost connection: Disconnected
+[19Mar2025 17:21:37.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 left the game
+[19Mar2025 17:21:38.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[19Mar2025 17:25:13.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 327.500000, 143.500000, -15508.500000]
+[19Mar2025 17:25:20.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 328.500000, 315.500000, -15421.500000]
+[19Mar2025 17:25:52.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[19Mar2025 17:27:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 328.500000, 315.500000, -15421.500000]
+[19Mar2025 17:27:54.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[19Mar2025 17:28:17.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 328.500000, 315.500000, -15421.500000]
+[19Mar2025 17:28:54.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[19Mar2025 17:29:15.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 328.500000, 315.500000, -15421.500000]
+[19Mar2025 17:29:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
