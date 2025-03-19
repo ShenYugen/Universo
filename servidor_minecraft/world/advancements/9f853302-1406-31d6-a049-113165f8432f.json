@@ -10469,6 +10469,54 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 17:56:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-03-19 17:56:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-03-19 17:57:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1_plus": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-03-19 17:56:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 17:54:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-03-19 17:54:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_2_from_backpack_stack_upgrade_tier_1": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-03-19 17:54:18 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-03-19 17:59:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-03-19 17:16:20 +0000"
@@ -10478,6 +10526,12 @@
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-03-19 17:48:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-03-19 17:57:44 +0000"
     },
     "done": true
   },
