@@ -10259,111 +10259,21 @@
     },
     "done": true
   },
-  "chunkloaders:recipes/misc/ultimate_chunk_loader": {
+  "mekanism:energy_cube": {
     "criteria": {
-      "recipe_condition": "2025-03-17 20:17:53 +0000"
+      "basic_energy_cube": "2025-03-17 17:10:31 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "mekanism:factory": {
     "criteria": {
-      "has_salmon": "2025-03-17 19:05:36 +0000"
+      "factory": "2025-03-17 17:44:01 +0000"
     },
     "done": true
   },
-  "portablemobs:captureadvancement": {
+  "mekanism:quantum_entangloporter": {
     "criteria": {
-      "capture": "2025-03-17 19:42:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/conquer_castle": {
-    "criteria": {
-      "requirement": "2025-03-17 18:38:10 +0000"
-    },
-    "done": true
-  },
-  "chunkloaders:recipes/misc/single_chunk_loader": {
-    "criteria": {
-      "recipe_condition": "2025-03-17 20:17:41 +0000"
-    },
-    "done": true
-  },
-  "chunkloaders:recipes/misc/advanced_chunk_loader": {
-    "criteria": {
-      "recipe_condition": "2025-03-17 20:17:41 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_shiraz_palace": {
-    "criteria": {
-      "location0": "2025-03-17 18:15:40 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/enter_castle": {
-    "criteria": {
-      "requirement": "2025-03-17 18:37:51 +0000"
-    },
-    "done": true
-  },
-  "portablemobs:basiccelladvancement": {
-    "criteria": {
-      "basiccell": "2025-03-17 19:42:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-17 19:51:10 +0000"
-    },
-    "done": true
-  },
-  "mekanismadditions:not_the_babies": {
-    "criteria": {
-      "baby_enderman": "2025-03-17 19:14:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-03-17 18:16:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-17 19:51:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-03-17 18:35:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-03-17 19:05:36 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:mob_jar": {
-    "criteria": {
-      "has_mob_jar": "2025-03-17 19:08:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-03-17 18:16:47 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/netherite_barrel": {
-    "criteria": {
-      "has_diamond_barrel": "2025-03-17 18:11:36 +0000"
+      "quantum_entangloporter": "2025-03-17 17:55:17 +0000"
     },
     "done": true
   },
@@ -10373,9 +10283,39 @@
     },
     "done": false
   },
+  "sophisticatedstorage:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_diamond_barrel": "2025-03-17 18:11:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-03-17 18:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-03-17 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-17 18:16:47 +0000"
+    },
+    "done": true
+  },
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-03-17 18:31:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-03-17 18:32:36 +0000"
     },
     "done": true
   },
@@ -10385,9 +10325,111 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-03-17 18:35:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "treasure": "2025-03-17 18:36:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2025-03-17 18:36:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-03-17 18:37:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/conquer_castle": {
+    "criteria": {
+      "requirement": "2025-03-17 18:38:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-17 19:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-17 19:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-17 19:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-17 19:05:36 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:drygmy_charm": {
     "criteria": {
       "has_drygmy_charm": "2025-03-17 19:07:22 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-03-17 19:08:39 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_enderman": "2025-03-17 19:14:22 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-03-17 19:42:33 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-03-17 19:42:33 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-03-17 19:42:53 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-03-17 19:47:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-17 19:51:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-17 19:51:10 +0000"
     },
     "done": true
   },
@@ -10403,63 +10445,21 @@
     },
     "done": true
   },
-  "mekanism:factory": {
+  "chunkloaders:recipes/misc/single_chunk_loader": {
     "criteria": {
-      "factory": "2025-03-17 17:44:01 +0000"
+      "recipe_condition": "2025-03-17 20:17:41 +0000"
     },
     "done": true
   },
-  "incendium:toxic_heap/mystic_wisdom": {
+  "chunkloaders:recipes/misc/advanced_chunk_loader": {
     "criteria": {
-      "treasure": "2025-03-17 18:36:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-03-17 19:05:36 +0000"
+      "recipe_condition": "2025-03-17 20:17:41 +0000"
     },
     "done": true
   },
-  "portablemobs:recipes/misc/master_capture_cell": {
+  "chunkloaders:recipes/misc/ultimate_chunk_loader": {
     "criteria": {
-      "recipe_condition": "2025-03-17 19:42:33 +0000"
-    },
-    "done": true
-  },
-  "mekanism:quantum_entangloporter": {
-    "criteria": {
-      "quantum_entangloporter": "2025-03-17 17:55:17 +0000"
-    },
-    "done": true
-  },
-  "mekanism:energy_cube": {
-    "criteria": {
-      "basic_energy_cube": "2025-03-17 17:10:31 +0000"
-    },
-    "done": true
-  },
-  "portablemobs:mastercelladvancement": {
-    "criteria": {
-      "mastercell": "2025-03-17 19:47:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-03-17 19:05:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/floor_is_tears": {
-    "criteria": {
-      "requirement": "2025-03-17 18:32:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/nuclear_fusion": {
-    "criteria": {
-      "incendium:treasure": "2025-03-17 18:36:46 +0000"
+      "recipe_condition": "2025-03-17 20:17:53 +0000"
     },
     "done": true
   },
