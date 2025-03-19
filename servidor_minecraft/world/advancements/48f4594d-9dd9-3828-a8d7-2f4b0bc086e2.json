@@ -9213,6 +9213,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-19 17:16:22 +0000"
+    },
+    "done": true
+  },
   "integratedterminals:storage_terminal/gui_storage_terminal": {
     "criteria": {
       "criteria_0": "2025-03-19 17:03:29 +0000"
