@@ -10463,9 +10463,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-03-19 18:43:15 +0000"
+    },
+    "done": true
+  },
   "mekanism:fluid_tank": {
     "criteria": {
       "basic_fluid_tank": "2025-03-19 17:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-03-19 18:43:14 +0000"
     },
     "done": true
   },
@@ -10511,6 +10523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-03-19 18:43:14 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:better_than_netherite": {
     "criteria": {
       "armor": "2025-03-19 17:59:16 +0000"
@@ -10526,6 +10544,12 @@
   "mekanism:fluid_transport": {
     "criteria": {
       "basic_mechanical_pipe": "2025-03-19 18:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-03-19 18:43:15 +0000"
     },
     "done": true
   },
