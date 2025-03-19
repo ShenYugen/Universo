@@ -17243,3 +17243,5 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [19Mar2025 20:09:55.568] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [19Mar2025 20:14:55.564] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [19Mar2025 20:19:55.578] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Mar2025 20:24:55.581] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Mar2025 20:29:55.568] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
