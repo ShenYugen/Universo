@@ -10765,5 +10765,11 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/piglich_heart_block": {
+    "criteria": {
+      "has_piglich_heartt": "2025-03-19 20:07:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
