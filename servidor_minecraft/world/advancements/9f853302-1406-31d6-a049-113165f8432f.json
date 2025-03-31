@@ -10808,111 +10808,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-31 19:46:20 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-31 18:24:32 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_advanced_void_upgrade_from_backpack_advanced_void_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-03-31 19:16:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-03-31 19:04:34 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:basic_spell_turret": {
-    "criteria": {
-      "has_basic_spell_turret": "2025-03-31 19:30:15 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_the_recipe": "2025-03-31 19:16:41 +0000"
-    },
-    "done": true
-  },
-  "ars_elemental:recipes/misc/flashing_sapling": {
-    "criteria": {
-      "has_journal": "2025-03-31 19:34:11 +0000"
     },
     "done": true
   },
@@ -10922,15 +10820,33 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+  "minecraft:recipes/misc/quartz": {
     "criteria": {
-      "has_void_upgrade": "2025-03-31 19:16:42 +0000"
+      "has_nether_quartz_ore": "2025-03-31 18:48:22 +0000"
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/bastion_to_purple": {
+  "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
-      "has_journal": "2025-03-31 19:34:11 +0000"
+      "has_nether_quartz_ore": "2025-03-31 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-31 19:04:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-03-31 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-03-31 19:16:42 +0000"
     },
     "done": true
   },
@@ -10940,9 +10856,33 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_advanced_void_upgrade_from_backpack_advanced_void_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-03-31 19:16:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/backpack_advanced_void_upgrade_from_storage_advanced_void_upgrade": {
     "criteria": {
       "has_storage_upgrade": "2025-03-31 19:17:17 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:basic_spell_turret": {
+    "criteria": {
+      "has_basic_spell_turret": "2025-03-31 19:30:15 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/flashing_sapling": {
+    "criteria": {
+      "has_journal": "2025-03-31 19:34:11 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/bastion_to_purple": {
+    "criteria": {
+      "has_journal": "2025-03-31 19:34:11 +0000"
     },
     "done": true
   },
@@ -10958,21 +10898,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-03-31 18:48:22 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/ritual_archwood_forestation": {
     "criteria": {
       "has_journal": "2025-03-31 19:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz_from_blasting": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-03-31 18:48:22 +0000"
     },
     "done": true
   },
