@@ -1394,3 +1394,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [31Mar2025 18:24:32.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Easter]
 [31Mar2025 18:24:33.773] [Server thread/INFO] [owo/]: Receiving client config
 [31Mar2025 18:31:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Easter Egg Searcher]
+[31Mar2025 18:33:54.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 328.500000, 315.500000, -15421.500000]
+[31Mar2025 18:37:59.448] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[31Mar2025 18:38:18.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
