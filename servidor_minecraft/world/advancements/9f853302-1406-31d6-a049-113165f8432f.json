@@ -6761,6 +6761,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-03-15 17:04:25 +0000",
+      "potato": "2025-03-31 19:28:59 +0000",
       "wheat": "2025-03-01 12:02:47 +0000",
       "melon": "2025-03-17 19:04:45 +0000",
       "carrot": "2025-03-17 19:04:14 +0000"
@@ -10825,9 +10826,21 @@
     },
     "done": true
   },
+  "ars_nouveau:basic_spell_turret": {
+    "criteria": {
+      "has_basic_spell_turret": "2025-03-31 19:30:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-03-31 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/flashing_sapling": {
+    "criteria": {
+      "has_journal": "2025-03-31 19:34:11 +0000"
     },
     "done": true
   },
@@ -10843,6 +10856,12 @@
     },
     "done": true
   },
+  "ars_nouveau:recipes/misc/bastion_to_purple": {
+    "criteria": {
+      "has_journal": "2025-03-31 19:34:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_void_upgrade_from_backpack_void_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-03-31 19:16:42 +0000"
@@ -10855,15 +10874,39 @@
     },
     "done": true
   },
+  "ars_nouveau:recipes/misc/frostaya_to_light_blue": {
+    "criteria": {
+      "has_journal": "2025-03-31 19:34:11 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/mendosteen_to_lime": {
+    "criteria": {
+      "has_journal": "2025-03-31 19:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-03-31 18:48:22 +0000"
     },
     "done": true
   },
+  "ars_elemental:recipes/misc/ritual_archwood_forestation": {
+    "criteria": {
+      "has_journal": "2025-03-31 19:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-03-31 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/bombegranate_to_orange": {
+    "criteria": {
+      "has_journal": "2025-03-31 19:34:11 +0000"
     },
     "done": true
   },
