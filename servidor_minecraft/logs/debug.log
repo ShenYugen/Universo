@@ -16218,3 +16218,5 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [31Mar2025 19:29:20.725] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [31Mar2025 19:30:15.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [It's a Magic Mod, I Swear!]
 [31Mar2025 19:34:20.720] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[31Mar2025 19:39:20.727] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[31Mar2025 19:44:20.724] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
