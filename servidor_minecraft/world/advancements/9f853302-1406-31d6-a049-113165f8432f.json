@@ -10813,15 +10813,45 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_advanced_void_upgrade_from_backpack_advanced_void_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-03-31 19:16:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-03-31 19:04:34 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-03-31 19:16:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-03-31 18:31:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-03-31 19:16:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_void_upgrade_from_backpack_void_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-03-31 19:16:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_advanced_void_upgrade_from_storage_advanced_void_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-03-31 19:17:17 +0000"
     },
     "done": true
   },
