@@ -16192,3 +16192,7 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [31Mar2025 18:59:23.612] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Attempting to add 1 chunk tickets. Pos: BlockPos{x=314, y=147, z=-15492} World: minecraft:overworld
 [31Mar2025 18:59:23.612] [Server thread/ERROR] [mekanism.common.tile.component.TileComponentChunkLoader/]: Failed to force chunk during registration [19, -969]
 [31Mar2025 19:04:12.426] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[31Mar2025 19:09:12.423] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[31Mar2025 19:10:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2483.500000, 82.500000, -16396.500000]
+[31Mar2025 19:11:57.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[31Mar2025 19:14:12.443] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
