@@ -16220,3 +16220,47 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [31Mar2025 19:34:20.720] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [31Mar2025 19:39:20.727] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [31Mar2025 19:44:20.724] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[31Mar2025 19:47:09.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Disconnected
+[31Mar2025 19:47:09.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[31Mar2025 19:47:17.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Mar2025 19:47:17.893] [Server thread/INFO] [com.github.jarva.arsadditions.ArsAdditions/]: Shutting down locating executor service
+[31Mar2025 19:47:17.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2025 19:47:17.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2025 19:47:17.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2025 19:47:18.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Mar2025 19:47:18.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[31Mar2025 19:47:18.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[31Mar2025 19:47:18.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dimensionalpocketsii:pocket
+[31Mar2025 19:47:18.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[31Mar2025 19:47:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stellaris:venus
+[31Mar2025 19:47:18.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[31Mar2025 19:47:18.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stellaris:moon
+[31Mar2025 19:47:18.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Mar2025 19:47:18.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[31Mar2025 19:47:18.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Mar2025 19:47:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stellaris:mercury
+[31Mar2025 19:47:18.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[31Mar2025 19:47:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[31Mar2025 19:47:18.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stellaris:mars
+[31Mar2025 19:47:18.321] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[31Mar2025 19:47:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Mar2025 19:47:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[31Mar2025 19:47:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[31Mar2025 19:47:18.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[31Mar2025 19:47:18.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Mar2025 19:47:18.382] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[31Mar2025 19:47:18.382] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config pickupnotifier/pickupnotifier-server.toml
+[31Mar2025 19:47:18.383] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config enchantinginfuser-server.toml
+[31Mar2025 19:47:18.384] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config illagerinvasion-server.toml
+[31Mar2025 19:47:18.391] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config magnumtorch-server.toml
