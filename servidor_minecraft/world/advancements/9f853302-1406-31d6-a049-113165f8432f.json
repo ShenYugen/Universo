@@ -11101,5 +11101,23 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/stonecutting/stone/terrorcotta_arcs": {
+    "criteria": {
+      "has_block": "2025-04-01 21:56:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/stone/terrorcotta_curves": {
+    "criteria": {
+      "has_block": "2025-04-01 21:56:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/stone/terrorcotta_lines": {
+    "criteria": {
+      "has_block": "2025-04-01 21:56:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

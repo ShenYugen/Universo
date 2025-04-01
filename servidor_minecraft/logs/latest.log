@@ -1307,3 +1307,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [01Apr2025 21:50:18.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [01Apr2025 21:52:45.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [01Apr2025 21:54:41.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[01Apr2025 21:58:22.556] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
