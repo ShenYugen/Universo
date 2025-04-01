@@ -10922,9 +10922,39 @@
     },
     "done": true
   },
+  "tombstone:recipe/strange_tablet": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 00:47:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_disenchantment": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 00:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-03-31 23:58:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-04-01 00:47:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 00:47:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_repairing": {
+    "criteria": {
+      "has_recipe": "2025-04-01 00:47:33 +0000"
     },
     "done": true
   },
@@ -10946,15 +10976,69 @@
     },
     "done": true
   },
+  "tombstone:recipe/book_of_recycling": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 00:47:59 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/border_of_life": {
     "criteria": {
       "requirement": "2025-03-31 23:49:23 +0000"
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-01 00:47:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_simple": {
+    "criteria": {
+      "has_recipe": "2025-04-01 00:47:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_scribe": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 00:47:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_magic_impregnation": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 00:47:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_oblivion": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 00:47:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/strange_scroll": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 00:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-03-31 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_grave_simple": {
+    "criteria": {
+      "has_recipe": "2025-04-01 00:48:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_soulbound": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 00:47:59 +0000"
     },
     "done": true
   },
