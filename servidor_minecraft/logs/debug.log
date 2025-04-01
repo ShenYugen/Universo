@@ -16201,3 +16201,7 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [01Apr2025 00:18:26.485] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Apr2025 00:23:26.475] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Apr2025 00:28:26.477] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 00:33:26.480] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 00:33:58.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 477.500000, 79.500000, -16013.500000]
+[01Apr2025 00:36:01.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[01Apr2025 00:38:26.477] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
