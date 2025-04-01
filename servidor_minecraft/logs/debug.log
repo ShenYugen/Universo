@@ -16196,3 +16196,6 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [01Apr2025 00:08:26.485] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Apr2025 00:09:59.638] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [01Apr2025 00:10:01.637] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 00:13:26.475] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 00:18:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[01Apr2025 00:18:26.485] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
