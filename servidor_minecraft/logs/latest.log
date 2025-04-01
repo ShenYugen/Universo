@@ -1329,3 +1329,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [01Apr2025 22:35:21.495] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [01Apr2025 22:35:22.196] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [01Apr2025 22:35:23.198] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:38:46.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 477.500000, 79.500000, -16013.500000]
+[01Apr2025 22:40:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[01Apr2025 22:42:23.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[01Apr2025 22:42:57.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 332.500000, 253.500000, -15540.500000]
