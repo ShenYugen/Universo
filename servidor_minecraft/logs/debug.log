@@ -15517,3 +15517,26 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [01Apr2025 22:11:47.088] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Apr2025 22:16:47.096] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Apr2025 22:21:47.088] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 22:26:47.089] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 22:31:47.085] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 22:33:16.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -3269.500000, 72.500000, -16722.500000]
+[01Apr2025 22:33:19.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
+[01Apr2025 22:33:23.041] [Server thread/DEBUG] [mixin/]: Mixing CombatRulesMixin from apothic_attributes.mixins.json into net.minecraft.world.damagesource.CombatRules
+[01Apr2025 22:33:27.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 617.500000, 80.500000, -15611.500000]
+[01Apr2025 22:34:24.450] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:25.349] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:29.246] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:30.294] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:30.347] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:31.296] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:34.095] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:35.446] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:36.344] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:37.746] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:34:41.094] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:35:04.897] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:35:10.797] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:35:21.097] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:35:21.495] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:35:22.196] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 22:35:23.198] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved

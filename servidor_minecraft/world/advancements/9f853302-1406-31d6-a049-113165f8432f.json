@@ -11107,6 +11107,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-04-01 22:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-04-01 22:07:17 +0000"
