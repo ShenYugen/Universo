@@ -1333,3 +1333,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [01Apr2025 22:40:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [01Apr2025 22:42:23.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [01Apr2025 22:42:57.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 332.500000, 253.500000, -15540.500000]
+[01Apr2025 22:47:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[01Apr2025 22:48:00.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2483.500000, 82.500000, -16396.500000]
+[01Apr2025 22:49:39.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/13614, l='ServerLevel[world]', x=-2474.92, y=84.00, z=-16232.16] died, message: 'Toolsmith was pricked to death'
+[01Apr2025 22:49:53.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[01Apr2025 22:52:58.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 332.500000, 253.500000, -15540.500000]
+[01Apr2025 22:56:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
