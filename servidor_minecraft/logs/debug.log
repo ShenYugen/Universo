@@ -15499,3 +15499,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [01Apr2025 21:35:59.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [01Apr2025 21:35:59.446] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Attempting to add 1 chunk tickets. Pos: BlockPos{x=314, y=147, z=-15492} World: minecraft:overworld
 [01Apr2025 21:35:59.446] [Server thread/ERROR] [mekanism.common.tile.component.TileComponentChunkLoader/]: Failed to force chunk during registration [19, -969]
+[01Apr2025 21:36:47.101] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 21:37:43.851] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[01Apr2025 21:37:43.852] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:gameplay.CooldownInstanceAccessor from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[01Apr2025 21:41:47.100] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
