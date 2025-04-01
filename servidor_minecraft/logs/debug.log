@@ -15489,3 +15489,13 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [01Apr2025 21:17:49.150] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
 [01Apr2025 21:21:47.154] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Apr2025 21:21:47.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 8.835562415843867,0.1392158899155973,-5.394353426701855
+[01Apr2025 21:26:47.197] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 21:30:33.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[01Apr2025 21:30:33.897] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Attempting to add 1 chunk tickets. Pos: BlockPos{x=314, y=147, z=-15492} World: minecraft:overworld
+[01Apr2025 21:30:33.897] [Server thread/ERROR] [mekanism.common.tile.component.TileComponentChunkLoader/]: Failed to force chunk during registration [19, -969]
+[01Apr2025 21:31:47.186] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 21:32:01.983] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 21:34:50.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 332.500000, 253.500000, -15540.500000]
+[01Apr2025 21:35:59.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[01Apr2025 21:35:59.446] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Attempting to add 1 chunk tickets. Pos: BlockPos{x=314, y=147, z=-15492} World: minecraft:overworld
+[01Apr2025 21:35:59.446] [Server thread/ERROR] [mekanism.common.tile.component.TileComponentChunkLoader/]: Failed to force chunk during registration [19, -969]
