@@ -19794,3 +19794,120 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [01Apr2025 18:19:02.035] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [01Apr2025 18:19:02.036] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [01Apr2025 18:19:03.093] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=-649, y=77, z=-19972} with deep BlockPos{x=-649, y=-59, z=-19972}
+[01Apr2025 18:19:11.412] [Worker-Main-3/DEBUG] [oritech/]: placing resource node at BlockPos{x=-849, y=72, z=-19954} with deep BlockPos{x=-849, y=-60, z=-19954}
+[01Apr2025 18:19:16.340] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=-905, y=75, z=-19958} with deep BlockPos{x=-905, y=-61, z=-19958}
+[01Apr2025 18:19:23.454] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=-704, y=56, z=-20095} with deep BlockPos{x=-704, y=-59, z=-20095}
+[01Apr2025 18:19:24.046] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1068 | 40 | -20348).
+[01Apr2025 18:19:24.046] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[01Apr2025 18:19:24.046] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[01Apr2025 18:19:24.046] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[01Apr2025 18:19:24.046] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 4(0) Rooms
+[01Apr2025 18:19:24.047] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[01Apr2025 18:19:24.047] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 11(0) Nodes and 4(0) Rooms
+[01Apr2025 18:19:24.047] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[01Apr2025 18:19:24.047] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 4(0) Rooms
+[01Apr2025 18:19:24.047] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[01Apr2025 18:19:24.047] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[01Apr2025 18:19:26.756] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=-944, y=75, z=-20039} with deep BlockPos{x=-944, y=-63, z=-20039}
+[01Apr2025 18:19:27.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Imperial March]
+[01Apr2025 18:19:30.143] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=-701, y=56, z=-20129} with deep BlockPos{x=-701, y=-61, z=-20129}
+[01Apr2025 18:19:30.844] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-556 | 36 | -20380).
+[01Apr2025 18:19:30.845] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[01Apr2025 18:19:30.845] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[01Apr2025 18:19:30.845] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[01Apr2025 18:19:30.845] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[01Apr2025 18:19:30.845] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[01Apr2025 18:19:30.845] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 5(0) Rooms
+[01Apr2025 18:19:30.845] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[01Apr2025 18:19:30.845] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 5(0) Rooms
+[01Apr2025 18:19:30.845] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[01Apr2025 18:19:30.846] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[01Apr2025 18:19:36.383] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=-536, y=74, z=-20033} with deep BlockPos{x=-536, y=-59, z=-20033}
+[01Apr2025 18:19:49.552] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 18:20:23.171] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-556 | 36 | -20380).
+[01Apr2025 18:20:23.171] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[01Apr2025 18:20:23.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[01Apr2025 18:20:23.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[01Apr2025 18:20:23.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[01Apr2025 18:20:23.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[01Apr2025 18:20:23.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 5(0) Rooms
+[01Apr2025 18:20:23.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[01Apr2025 18:20:23.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 5(0) Rooms
+[01Apr2025 18:20:23.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[01Apr2025 18:20:23.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[01Apr2025 18:20:29.138] [Worker-Main-3/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[01Apr2025 18:20:32.707] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[01Apr2025 18:20:32.707] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[01Apr2025 18:20:32.707] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Apr2025 18:21:05.850] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:06.546] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:07.045] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:07.536] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:08.035] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:08.542] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:09.046] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:09.537] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:10.042] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:10.545] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:32.338] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:33.042] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:33.635] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:34.158] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-556 | 36 | -20380).
+[01Apr2025 18:21:34.158] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[01Apr2025 18:21:34.158] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[01Apr2025 18:21:34.158] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[01Apr2025 18:21:34.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[01Apr2025 18:21:34.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[01Apr2025 18:21:34.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 5(0) Rooms
+[01Apr2025 18:21:34.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[01Apr2025 18:21:34.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 5(0) Rooms
+[01Apr2025 18:21:34.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[01Apr2025 18:21:34.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[01Apr2025 18:21:34.237] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:34.346] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:35.141] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:35.334] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:36.137] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:36.637] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:37.141] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:37.340] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:37.635] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:38.148] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:38.637] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:39.641] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:40.337] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:40.840] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:21:43.260] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:22:39.186] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:22:41.989] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:22:44.338] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:22:53.562] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:24:34.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13203, l='ServerLevel[world]', x=-863.86, y=63.00, z=-19894.19] died, message: 'Farmer hit the ground too hard'
+[01Apr2025 18:24:42.139] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:24:49.545] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Apr2025 18:28:06.039] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:06.683] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:08.384] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:09.584] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:10.593] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:11.612] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:13.592] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:14.335] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:15.336] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:17.334] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:17.583] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:17.894] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:19.210] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:19.349] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:19.886] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:20.644] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:21.339] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:22.337] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:24.287] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:25.786] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:26.695] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:27.191] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:27.691] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:30.137] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:30.291] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[01Apr2025 18:28:30.642] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved

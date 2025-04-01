@@ -2332,6 +2332,7 @@
       "biomeswevegone:coconino_meadow": "2025-02-22 23:45:12 +0000",
       "biomeswevegone:maple_taiga": "2025-03-01 12:25:24 +0000",
       "biomeswevegone:pumpkin_valley": "2025-02-22 23:46:06 +0000",
+      "biomeswevegone:tropical_rainforest": "2025-04-01 18:18:49 +0000",
       "biomeswevegone:crimson_tundra": "2025-02-22 17:30:57 +0000",
       "biomeswevegone:coniferous_forest": "2025-03-16 18:13:18 +0000",
       "biomeswevegone:bayou": "2025-03-01 13:06:43 +0000",
@@ -3257,6 +3258,7 @@
       "minecraft:frozen_river": "2025-02-22 18:12:54 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-22 18:53:11 +0000",
       "minecraft:ocean": "2025-02-22 21:21:14 +0000",
+      "minecraft:birch_forest": "2025-04-01 18:18:00 +0000",
       "minecraft:windswept_hills": "2025-02-22 23:42:59 +0000",
       "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000",
       "minecraft:beach": "2025-02-22 20:41:36 +0000",
@@ -3887,27 +3889,28 @@
       "minecraft:pillager": "2025-02-22 18:42:01 +0000",
       "minecraft:blaze": "2025-02-23 18:42:25 +0000",
       "minecraft:skeleton": "2025-02-22 19:28:29 +0000",
+      "minecraft:ghast": "2025-03-17 18:45:50 +0000",
+      "minecraft:hoglin": "2025-02-22 23:09:18 +0000",
+      "minecraft:guardian": "2025-02-22 23:33:12 +0000",
+      "minecraft:vindicator": "2025-02-22 21:27:03 +0000",
+      "minecraft:magma_cube": "2025-02-22 22:26:52 +0000",
+      "minecraft:spider": "2025-02-22 19:42:25 +0000",
+      "minecraft:piglin_brute": "2025-02-22 22:27:27 +0000",
+      "minecraft:creeper": "2025-02-22 20:17:54 +0000",
       "minecraft:phantom": "2025-03-16 18:07:21 +0000",
       "minecraft:zombified_piglin": "2025-02-22 22:18:36 +0000",
       "minecraft:witch": "2025-02-22 20:45:45 +0000",
       "minecraft:wither_skeleton": "2025-03-16 18:43:12 +0000",
       "minecraft:husk": "2025-03-11 20:21:25 +0000",
-      "minecraft:ghast": "2025-03-17 18:45:50 +0000",
-      "minecraft:hoglin": "2025-02-22 23:09:18 +0000",
       "minecraft:cave_spider": "2025-02-22 19:23:45 +0000",
       "minecraft:piglin": "2025-02-22 22:26:40 +0000",
-      "minecraft:guardian": "2025-02-22 23:33:12 +0000",
-      "minecraft:vindicator": "2025-02-22 21:27:03 +0000",
       "minecraft:stray": "2025-02-22 19:33:44 +0000",
       "minecraft:enderman": "2025-03-01 12:39:43 +0000",
       "minecraft:silverfish": "2025-03-01 22:30:40 +0000",
-      "minecraft:magma_cube": "2025-02-22 22:26:52 +0000",
       "minecraft:endermite": "2025-03-01 22:16:36 +0000",
-      "minecraft:spider": "2025-02-22 19:42:25 +0000",
-      "minecraft:piglin_brute": "2025-02-22 22:27:27 +0000",
       "minecraft:vex": "2025-03-19 19:02:08 +0000",
       "minecraft:zombie": "2025-02-22 19:03:37 +0000",
-      "minecraft:creeper": "2025-02-22 20:17:54 +0000"
+      "minecraft:zombie_villager": "2025-04-01 18:16:40 +0000"
     },
     "done": false
   },
@@ -11058,6 +11061,12 @@
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-04-01 18:05:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-04-01 18:19:27 +0000"
     },
     "done": true
   },
