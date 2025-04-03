@@ -15544,3 +15544,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [03Apr2025 23:26:18.787] [Worker-Main-2/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
 [03Apr2025 23:26:19.008] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=262, y=72, z=-14901} with deep BlockPos{x=262, y=-61, z=-14901}
 [03Apr2025 23:30:51.923] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Apr2025 23:35:51.757] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Apr2025 23:40:51.769] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
