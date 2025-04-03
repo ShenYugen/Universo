@@ -15514,3 +15514,18 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [03Apr2025 21:10:48.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Disconnected
 [03Apr2025 21:10:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
 [03Apr2025 21:13:56.838] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Apr2025 21:18:56.805] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Apr2025 21:22:33.979] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5a7d3588 into net.minecraft.network.Connection@4ee8a795
+[03Apr2025 21:22:34.451] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[03Apr2025 21:22:35.216] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@729be4c7 into net.minecraft.network.Connection@4ee8a795
+[03Apr2025 21:22:35.308] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/127.12.124.144:33123] logged in with entity id 971 at (344.69999998807907, 147.0, -15545.30658678925)
+[03Apr2025 21:22:35.363] [Server thread/INFO] [owo/]: Sending server config values to client
+[03Apr2025 21:22:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[03Apr2025 21:22:35.407] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to ShenYugen (9f853302-1406-31d6-a049-113165f8432f)
+[03Apr2025 21:22:36.430] [Server thread/INFO] [owo/]: Receiving client config
+[03Apr2025 21:23:56.854] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Apr2025 21:25:32.216] [Server thread/DEBUG] [mixin/]: Mixing StandardSpellValidatorMixin from ars_controle.mixins.json into com.hollingsworth.arsnouveau.common.spell.validation.StandardSpellValidator
+[03Apr2025 21:25:32.216] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[03Apr2025 21:25:32.218] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[03Apr2025 21:25:32.218] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[03Apr2025 21:25:32.218] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result

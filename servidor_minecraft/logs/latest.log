@@ -1310,3 +1310,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [03Apr2025 21:09:04.081] [Server thread/INFO] [owo/]: Receiving client config
 [03Apr2025 21:10:48.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Disconnected
 [03Apr2025 21:10:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[03Apr2025 21:22:35.308] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/127.12.124.144:33123] logged in with entity id 971 at (344.69999998807907, 147.0, -15545.30658678925)
+[03Apr2025 21:22:35.363] [Server thread/INFO] [owo/]: Sending server config values to client
+[03Apr2025 21:22:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[03Apr2025 21:22:36.430] [Server thread/INFO] [owo/]: Receiving client config
