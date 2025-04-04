@@ -16335,3 +16335,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [04Apr2025 18:40:13.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [04Apr2025 18:40:19.226] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$7621357ddefb4f33beddfbe90c8f4ff6 (originally net/caffeinemc/mods/lithium/mixin/ai/poi/SectionStorageMixin$1)
 [04Apr2025 18:42:07.476] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Apr2025 18:47:07.469] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Apr2025 18:47:51.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 302.500000, 118.500000, -15416.500000]
+[04Apr2025 18:48:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[04Apr2025 18:48:28.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 302.500000, 118.500000, -15416.500000]
+[04Apr2025 18:49:26.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[04Apr2025 18:52:07.472] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

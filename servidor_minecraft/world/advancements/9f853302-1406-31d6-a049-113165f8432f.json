@@ -11279,9 +11279,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-04-04 18:50:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 18:50:20 +0000"
+    },
+    "done": true
+  },
   "mekanism:installer": {
     "criteria": {
       "installer": "2025-04-04 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_void_upgrade_from_storage_void_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-04-04 18:50:20 +0000"
     },
     "done": true
   },
