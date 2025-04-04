@@ -11279,5 +11279,11 @@
     },
     "done": true
   },
+  "mekanism:installer": {
+    "criteria": {
+      "installer": "2025-04-04 18:04:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
