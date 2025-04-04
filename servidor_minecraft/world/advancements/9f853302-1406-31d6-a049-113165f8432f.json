@@ -11279,6 +11279,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 19:31:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/advanced_void_upgrade": {
     "criteria": {
       "has_void_upgrade": "2025-04-04 18:50:20 +0000"
