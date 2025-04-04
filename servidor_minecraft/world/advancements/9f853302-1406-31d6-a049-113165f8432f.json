@@ -7533,6 +7533,7 @@
       "shattered": "2025-03-16 13:25:45 +0000",
       "phantom": "2025-03-16 18:07:21 +0000",
       "sculk_leech": "2025-03-09 17:00:06 +0000",
+      "warden": "2025-04-04 01:17:20 +0000",
       "angler_fish": "2025-03-16 13:16:32 +0000"
     },
     "done": false
@@ -11194,6 +11195,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-04-04 01:23:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-04-04 01:00:50 +0000"
@@ -11212,6 +11219,24 @@
     },
     "done": true
   },
+  "bhc:recipes/combat/blue_heart_patch": {
+    "criteria": {
+      "has_heart": "2025-04-04 01:17:20 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/blue_heart_melted_from_smelting": {
+    "criteria": {
+      "has_heart": "2025-04-04 01:17:20 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-04-04 01:17:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-04-04 00:05:03 +0000"
@@ -11221,6 +11246,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-04-03 23:53:18 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/blue_heart_canister": {
+    "criteria": {
+      "has_heart": "2025-04-04 01:17:20 +0000"
     },
     "done": true
   },

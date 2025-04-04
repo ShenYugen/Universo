@@ -15674,3 +15674,34 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [04Apr2025 01:16:02.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved wrongly!
 [04Apr2025 01:16:28.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [04Apr2025 01:16:36.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7760ms or 155 ticks behind
+[04Apr2025 01:17:02.108] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:11.952] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:12.904] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:13.855] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:14.803] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:15.749] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:16.700] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:17.650] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:18.599] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:19.549] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:17:20.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Phantom Thief]
+[04Apr2025 01:19:31.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 435.500000, 152.500000, -15512.500000]
+[04Apr2025 01:20:52.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[04Apr2025 01:21:02.944] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Apr2025 01:22:11.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 2680.500000, 4.500000, -123956.500000]
+[04Apr2025 01:24:14.358] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[04Apr2025 01:25:42.128] [Worker-Main-5/DEBUG] [twilightforest/]: Compiling Stalactite configs for medium_hollow_hill type
+[04Apr2025 01:25:42.133] [Worker-Main-5/DEBUG] [twilightforest/]: 
+Ore interpolation factor: 0.2
+Stone Counterweight: 8000.00011920929
+Ore Counterweight: 13.79310365380912
+Stalactite: Ore:Right[Block{minecraft:stone}], Length:11, Variation:0.25, Weight:1 - After counterweight: 8001
+Stalactite: Ore:Right[Block{minecraft:iron_ore}], Length:8, Variation:0.7, Weight:40 - After counterweight: 552
+Stalactite: Ore:Right[Block{minecraft:coal_ore}], Length:12, Variation:0.8, Weight:30 - After counterweight: 414
+Stalactite: Ore:Right[Block{minecraft:copper_ore}], Length:7, Variation:0.6, Weight:25 - After counterweight: 345
+Stalactite: Ore:Right[Block{minecraft:glowstone}], Length:8, Variation:0.5, Weight:20 - After counterweight: 276
+Stalactite: Ore:Right[Block{minecraft:gold_ore}], Length:6, Variation:0.6, Weight:10 - After counterweight: 138
+Stalactite: Ore:Right[Block{minecraft:redstone_ore}], Length:8, Variation:0.8, Weight:20 - After counterweight: 276
+Total weight after counterweights: 10002
+[04Apr2025 01:25:42.133] [Worker-Main-5/DEBUG] [twilightforest/]: Compiling Stalagmite configs for medium_hollow_hill type
+[04Apr2025 01:26:02.952] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
