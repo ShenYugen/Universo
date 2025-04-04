@@ -16325,3 +16325,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [04Apr2025 18:12:57.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 435.500000, 152.500000, -15512.500000]
 [04Apr2025 18:17:07.481] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [04Apr2025 18:17:07.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[04Apr2025 18:22:05.781] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=2679, y=3, z=-123952}
+[04Apr2025 18:22:07.486] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Apr2025 18:24:16.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 435.500000, 152.500000, -15512.500000]
+[04Apr2025 18:27:07.475] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Apr2025 18:32:07.480] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
