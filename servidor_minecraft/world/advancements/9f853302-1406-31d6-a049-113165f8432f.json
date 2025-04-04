@@ -2519,6 +2519,7 @@
       "rotten_flesh": "2025-02-22 17:30:19 +0000",
       "enchanted_golden_apple": "2025-03-16 16:09:45 +0000",
       "cooked_mutton": "2025-02-22 17:57:09 +0000",
+      "baked_potato": "2025-04-03 23:53:21 +0000",
       "pumpkin_pie": "2025-02-22 18:57:30 +0000"
     },
     "done": false
@@ -11178,6 +11179,18 @@
   "ars_nouveau:recipes/misc/repository_controller": {
     "criteria": {
       "has_journal": "2025-04-03 21:57:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-03 23:53:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-03 23:53:18 +0000"
     },
     "done": true
   },
