@@ -11279,6 +11279,36 @@
     },
     "done": true
   },
+  "mekanism:installer": {
+    "criteria": {
+      "installer": "2025-04-04 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-04-04 18:50:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 18:50:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_void_upgrade_from_storage_void_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-04-04 18:50:20 +0000"
+    },
+    "done": true
+  },
+  "integratedtunnels:interfaces/interface_fluid": {
+    "criteria": {
+      "criteria_0": "2025-04-04 18:55:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
       "has_the_recipe": "2025-04-04 19:31:42 +0000"
@@ -11288,12 +11318,6 @@
   "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
     "criteria": {
       "has_stack_upgrade_tier_4": "2025-04-04 19:32:12 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/advanced_void_upgrade": {
-    "criteria": {
-      "has_void_upgrade": "2025-04-04 18:50:20 +0000"
     },
     "done": true
   },
@@ -11309,27 +11333,33 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/void_upgrade": {
+  "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
-      "has_the_recipe": "2025-04-04 18:50:20 +0000"
+      "has_melon_slice": "2025-04-04 20:46:06 +0000"
     },
     "done": true
   },
-  "integratedtunnels:interfaces/interface_fluid": {
+  "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
-      "criteria_0": "2025-04-04 18:55:47 +0000"
+      "has_melon": "2025-04-04 20:46:06 +0000"
     },
     "done": true
   },
-  "mekanism:installer": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "installer": "2025-04-04 18:04:17 +0000"
+      "has_melon": "2025-04-04 20:46:06 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/backpack_void_upgrade_from_storage_void_upgrade": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_storage_upgrade": "2025-04-04 18:50:20 +0000"
+      "has_melon": "2025-04-04 20:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-04 20:46:06 +0000"
     },
     "done": true
   },
