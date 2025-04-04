@@ -16354,3 +16354,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [04Apr2025 19:27:07.475] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [04Apr2025 19:27:10.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [04Apr2025 19:32:07.475] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Apr2025 19:34:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[04Apr2025 19:35:08.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Secrets of Enchanting]
+[04Apr2025 19:37:07.479] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Apr2025 19:42:07.466] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
