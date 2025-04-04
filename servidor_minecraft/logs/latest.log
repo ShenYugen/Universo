@@ -1,2 +1,12 @@
 [04Apr2025 00:03:53.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 477.500000, 79.500000, -16013.500000]
 [04Apr2025 00:05:17.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 435.500000, 152.500000, -15512.500000]
+[04Apr2025 00:08:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 355.500000, 253.500000, -15542.500000]
+[04Apr2025 00:08:37.803] [Server thread/ERROR] [mekanism.common.content.miner.MinerRegionCache/]: Failed to load chunk for searcher cache: 18, -971
+[04Apr2025 00:08:37.803] [Server thread/ERROR] [mekanism.common.content.miner.MinerRegionCache/]: Failed to load chunk for searcher cache: 18, -970
+[04Apr2025 00:10:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 435.500000, 152.500000, -15512.500000]
+[04Apr2025 00:10:47.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 5.086453794988472,3.0801134095342206,-10.636673199460347
+[04Apr2025 00:12:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 435.500000, 152.500000, -15512.500000]
+[04Apr2025 00:17:54.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[04Apr2025 00:18:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 435.500000, 152.500000, -15512.500000]
+[04Apr2025 00:21:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 355.500000, 253.500000, -15542.500000]
+[04Apr2025 00:22:42.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 435.500000, 152.500000, -15512.500000]
