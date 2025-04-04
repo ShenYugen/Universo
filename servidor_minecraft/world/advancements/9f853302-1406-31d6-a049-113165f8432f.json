@@ -11291,6 +11291,12 @@
     },
     "done": true
   },
+  "integratedtunnels:interfaces/interface_fluid": {
+    "criteria": {
+      "criteria_0": "2025-04-04 18:55:47 +0000"
+    },
+    "done": true
+  },
   "mekanism:installer": {
     "criteria": {
       "installer": "2025-04-04 18:04:17 +0000"
