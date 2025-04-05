@@ -11580,5 +11580,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-05 12:26:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
