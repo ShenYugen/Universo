@@ -11376,6 +11376,12 @@
     },
     "done": true
   },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2025-04-05 11:27:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-05 11:16:06 +0000"
@@ -11415,6 +11421,12 @@
   "apothic_enchanting:hellshelf": {
     "criteria": {
       "hellshelf": "2025-04-05 11:02:39 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-04-05 11:27:51 +0000"
     },
     "done": true
   },
