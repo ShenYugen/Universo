@@ -16912,3 +16912,12 @@ java.lang.IllegalStateException: Invalid block entity the_bumblezone:honey_cocoo
 [05Apr2025 09:17:36.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VariantBeeEntity['Diablo the Thieving Bee'/5246, l='ServerLevel[world]', x=-5782.28, y=107.69, z=-9606.51] died: Diablo the Thieving Bee died
 [05Apr2025 09:17:43.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bee['Anna the Cannon Bee'/6299, l='ServerLevel[world]', x=-5887.65, y=104.87, z=-9688.97] died: Anna the Cannon Bee died
 [05Apr2025 09:17:49.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VariantBeeEntity['Max the aMAXing Bee'/5682, l='ServerLevel[world]', x=-5847.06, y=124.28, z=-9735.54] died: Max the aMAXing Bee died
+[05Apr2025 09:18:21.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 9.905650237303234,-3.543591668418202,-0.20645621173025575
+[05Apr2025 09:18:21.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3578ms or 71 ticks behind
+[05Apr2025 09:18:49.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[05Apr2025 09:18:50.736] [Worker-Main-6/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[05Apr2025 09:18:50.737] [Worker-Main-6/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[05Apr2025 09:18:56.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6629ms or 132 ticks behind
+[05Apr2025 09:18:59.661] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Apr2025 09:23:59.563] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Apr2025 09:26:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
