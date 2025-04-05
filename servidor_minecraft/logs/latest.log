@@ -2013,3 +2013,5 @@ Caused by: java.io.IOException: Invalid tag id: 19
 [05Apr2025 11:37:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Eterna, Quanta, Arcana]
 [05Apr2025 11:37:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Mastering Hell and Sea]
 [05Apr2025 11:37:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Delving Into Darkness]
+[05Apr2025 11:45:04.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[05Apr2025 11:49:05.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
