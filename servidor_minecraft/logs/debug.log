@@ -17231,3 +17231,10 @@ Caused by: java.io.IOException: Invalid tag id: 19
 [05Apr2025 11:27:51.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Basics]
 [05Apr2025 11:27:51.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Introduction to Chaos]
 [05Apr2025 11:29:12.158] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Apr2025 11:34:12.156] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Apr2025 11:34:25.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[05Apr2025 11:36:45.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Mastering the Inferno]
+[05Apr2025 11:37:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Eterna, Quanta, Arcana]
+[05Apr2025 11:37:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Mastering Hell and Sea]
+[05Apr2025 11:37:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Delving Into Darkness]
+[05Apr2025 11:39:12.156] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

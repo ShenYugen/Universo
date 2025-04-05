@@ -11400,6 +11400,12 @@
     },
     "done": true
   },
+  "apothic_enchanting:deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-04-05 11:37:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-04-05 11:15:36 +0000"
@@ -11430,9 +11436,21 @@
     },
     "done": true
   },
+  "apothic_enchanting:enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-04-05 11:37:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-05 11:15:36 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2025-04-05 11:37:33 +0000"
     },
     "done": true
   },
@@ -11451,6 +11469,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-04-05 11:15:36 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_hellshelf": {
+    "criteria": {
+      "glowing": "2025-04-05 11:36:45 +0000"
     },
     "done": true
   },
