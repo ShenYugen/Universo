@@ -11376,9 +11376,21 @@
     },
     "done": true
   },
+  "apothic_enchanting:hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-04-05 11:02:39 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_garden": {
     "criteria": {
       "in_hanging_garden": "2025-04-05 09:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-04-05 11:02:24 +0000"
     },
     "done": true
   },
