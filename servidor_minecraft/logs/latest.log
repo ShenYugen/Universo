@@ -2015,3 +2015,34 @@ Caused by: java.io.IOException: Invalid tag id: 19
 [05Apr2025 11:37:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Delving Into Darkness]
 [05Apr2025 11:45:04.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [05Apr2025 11:49:05.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[05Apr2025 11:51:53.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Embracing the Sculk]
+[05Apr2025 11:54:28.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -896.500000, -50.500000, -16015.500000]
+[05Apr2025 11:54:44.878] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:45.825] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:46.779] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:47.732] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:48.670] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:48.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Disconnected
+[05Apr2025 11:54:48.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[05Apr2025 11:54:58.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/127.12.124.144:33697] logged in with entity id 134902 at (-896.5, -51.0, -16015.5)
+[05Apr2025 11:54:58.673] [Server thread/INFO] [owo/]: Sending server config values to client
+[05Apr2025 11:54:58.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[05Apr2025 11:54:59.197] [Server thread/INFO] [owo/]: Receiving client config
+[05Apr2025 11:55:05.129] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:06.076] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:07.028] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:07.972] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:08.927] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:09.870] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:10.822] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:11.768] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:12.723] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:13.671] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:14.622] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:36.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Disconnected
+[05Apr2025 11:55:36.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[05Apr2025 11:55:42.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/127.12.124.144:38467] logged in with entity id 136281 at (-894.8854841113724, -50.0, -16016.210259871545)
+[05Apr2025 11:55:42.611] [Server thread/INFO] [owo/]: Sending server config values to client
+[05Apr2025 11:55:42.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[05Apr2025 11:55:43.068] [Server thread/INFO] [owo/]: Receiving client config
+[05Apr2025 11:57:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]

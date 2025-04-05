@@ -17242,3 +17242,46 @@ Caused by: java.io.IOException: Invalid tag id: 19
 [05Apr2025 11:45:04.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [05Apr2025 11:49:05.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [05Apr2025 11:49:12.156] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Apr2025 11:51:53.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Embracing the Sculk]
+[05Apr2025 11:54:12.158] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Apr2025 11:54:28.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -896.500000, -50.500000, -16015.500000]
+[05Apr2025 11:54:29.945] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$f6b1db170f29469baa338c9346cc42bf (originally net/caffeinemc/mods/lithium/mixin/ai/poi/SectionStorageMixin$1)
+[05Apr2025 11:54:30.171] [Server thread/DEBUG] [Lithium/]: Loaded net.caffeinemc.mods.lithium.neoforge.NeoForgeModCompat@16df76eb for service interface net.caffeinemc.mods.lithium.common.services.PlatformModCompat
+[05Apr2025 11:54:44.878] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:45.825] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:46.779] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:47.732] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:48.670] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:54:48.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Disconnected
+[05Apr2025 11:54:48.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[05Apr2025 11:54:57.328] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@36046fee into net.minecraft.network.Connection@75babc3a
+[05Apr2025 11:54:57.775] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[05Apr2025 11:54:58.434] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5b0d9b8d into net.minecraft.network.Connection@75babc3a
+[05Apr2025 11:54:58.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/127.12.124.144:33697] logged in with entity id 134902 at (-896.5, -51.0, -16015.5)
+[05Apr2025 11:54:58.673] [Server thread/INFO] [owo/]: Sending server config values to client
+[05Apr2025 11:54:58.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[05Apr2025 11:54:58.727] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to ShenYugen (9f853302-1406-31d6-a049-113165f8432f)
+[05Apr2025 11:54:59.197] [Server thread/INFO] [owo/]: Receiving client config
+[05Apr2025 11:55:05.129] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:06.076] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:07.028] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:07.972] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:08.927] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:09.870] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:10.822] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:11.768] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:12.723] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:13.671] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:14.622] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[05Apr2025 11:55:36.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Disconnected
+[05Apr2025 11:55:36.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[05Apr2025 11:55:41.524] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@d8c792c into net.minecraft.network.Connection@e377234
+[05Apr2025 11:55:41.958] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[05Apr2025 11:55:42.484] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@53570775 into net.minecraft.network.Connection@e377234
+[05Apr2025 11:55:42.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/127.12.124.144:38467] logged in with entity id 136281 at (-894.8854841113724, -50.0, -16016.210259871545)
+[05Apr2025 11:55:42.611] [Server thread/INFO] [owo/]: Sending server config values to client
+[05Apr2025 11:55:42.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[05Apr2025 11:55:42.632] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to ShenYugen (9f853302-1406-31d6-a049-113165f8432f)
+[05Apr2025 11:55:43.068] [Server thread/INFO] [owo/]: Receiving client config
+[05Apr2025 11:57:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[05Apr2025 11:59:12.157] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
