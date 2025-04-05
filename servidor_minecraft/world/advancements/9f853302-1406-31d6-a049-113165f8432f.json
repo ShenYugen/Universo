@@ -11568,6 +11568,12 @@
     },
     "done": true
   },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-04-05 12:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_the_recipe": "2025-04-05 11:58:09 +0000"
