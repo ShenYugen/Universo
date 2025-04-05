@@ -16934,3 +16934,8 @@ java.lang.IllegalStateException: Invalid block entity the_bumblezone:honey_cocoo
 [05Apr2025 09:57:07.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 300.500000, 63.500000, -15602.500000]
 [05Apr2025 09:58:59.555] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [05Apr2025 10:03:59.551] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Apr2025 10:08:59.551] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Apr2025 10:10:18.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[05Apr2025 10:13:59.558] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Apr2025 10:15:48.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[05Apr2025 10:18:36.408] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
