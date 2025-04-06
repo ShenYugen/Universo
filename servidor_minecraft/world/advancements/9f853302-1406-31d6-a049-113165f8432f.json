@@ -11586,27 +11586,9 @@
     },
     "done": true
   },
-  "justdirethings:recipes/misc/raw_blazegold_ore-goospread": {
+  "justdirethings:recipes/misc/gooblock_tier1": {
     "criteria": {
-      "has_goo_block_t2": "2025-04-06 12:14:06 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/raw_ferricore_ore-goospread": {
-    "criteria": {
-      "has_goo_block_t1": "2025-04-06 12:14:00 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/refined_t2_fluid_block-goospread": {
-    "criteria": {
-      "has_goo_block_t2": "2025-04-06 12:14:06 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/blazegold_ingot_blasted": {
-    "criteria": {
-      "has_blazegold_raw": "2025-04-06 12:17:39 +0000"
+      "has_coal": "2025-04-06 12:07:32 +0000"
     },
     "done": true
   },
@@ -11616,15 +11598,15 @@
     },
     "done": true
   },
-  "justdirethings:recipes/misc/raw_coal_t1_ore-goospread": {
+  "justdirethings:recipes/misc/raw_ferricore_ore-goospread": {
     "criteria": {
       "has_goo_block_t1": "2025-04-06 12:14:00 +0000"
     },
     "done": true
   },
-  "justdirethings:recipes/misc/blazegold_ingot_smelted": {
+  "justdirethings:recipes/misc/raw_coal_t1_ore-goospread": {
     "criteria": {
-      "has_blazegold_raw": "2025-04-06 12:17:39 +0000"
+      "has_goo_block_t1": "2025-04-06 12:14:00 +0000"
     },
     "done": true
   },
@@ -11634,15 +11616,21 @@
     },
     "done": true
   },
-  "justdirethings:recipes/misc/gooblock_tier1": {
-    "criteria": {
-      "has_coal": "2025-04-06 12:07:32 +0000"
-    },
-    "done": true
-  },
   "justdirethings:recipes/misc/gooblock_tier2": {
     "criteria": {
       "has_goo_block1": "2025-04-06 12:14:00 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_blazegold_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t2": "2025-04-06 12:14:06 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/refined_t2_fluid_block-goospread": {
+    "criteria": {
+      "has_goo_block_t2": "2025-04-06 12:14:06 +0000"
     },
     "done": true
   },
@@ -11655,6 +11643,336 @@
   "justdirethings:recipes/misc/raw_coal_t2_ore-goospread": {
     "criteria": {
       "has_goo_block_t2": "2025-04-06 12:14:06 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_ingot_blasted": {
+    "criteria": {
+      "has_blazegold_raw": "2025-04-06 12:17:39 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_ingot_smelted": {
+    "criteria": {
+      "has_blazegold_raw": "2025-04-06 12:17:39 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_hoe": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazejet_wand": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/building_blocks/blazegold_ingot_9x9": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/experienceholder": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blockswappert1": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_boots": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/bow_blazegold": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/inventory_holder": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_chestplate": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/totem_of_death_recall": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_sword": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_pickaxe": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/polymorphic_wand": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_shovel": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_helmet": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/portalgun": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/playeraccessor": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/generatorfluidt1": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/polymorphic_catalyst": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_leggings": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/energytransmitter": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_axe": {
+    "criteria": {
+      "has_blazegold_ingot": "2025-04-06 12:18:14 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/experienceholder_nbtclear": {
+    "criteria": {
+      "has_experienceholder": "2025-04-06 12:18:24 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_ingot_blasted": {
+    "criteria": {
+      "has_ferricore_raw": "2025-04-06 12:26:47 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_ingot_smelted": {
+    "criteria": {
+      "has_ferricore_raw": "2025-04-06 12:26:47 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/fluidcollectort1": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_hoe": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/droppert1": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_boots": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/itemcollector": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_wrench": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blockbreakert1": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/generatort1": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blockplacert1": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/potion_canister": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_leggings": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_chestplate": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/pocket_generator": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/fluid_canister": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/clickert1": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/fluidplacert1": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/building_blocks/ferricore_ingot_9x9": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/fuel_canister": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_shovel": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_helmet": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/upgrade_blank": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_axe": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/machinesettingscopier": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_pickaxe": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/ferricore_sword": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/bow_ferricore": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/sensort1": {
+    "criteria": {
+      "has_ferricore_ingot": "2025-04-06 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/clickert1_nbtclear": {
+    "criteria": {
+      "has_clickert1": "2025-04-06 12:27:28 +0000"
     },
     "done": true
   },
