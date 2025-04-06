@@ -11977,6 +11977,12 @@
     },
     "done": true
   },
+  "justdirethings:recipes/building_blocks/charcoal_9x9": {
+    "criteria": {
+      "has_charcoal": "2025-04-06 13:59:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-04-06 13:50:31 +0000"

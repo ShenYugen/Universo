@@ -1500,3 +1500,4 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [06Apr2025 13:41:22.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [06Apr2025 13:47:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1046.500000, 84.500000, -20171.500000]
 [06Apr2025 13:50:31.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Eye Spy]
+[06Apr2025 14:02:59.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved wrongly!
