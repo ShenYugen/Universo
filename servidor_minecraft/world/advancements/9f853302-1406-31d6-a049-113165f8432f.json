@@ -12057,6 +12057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-04-06 15:47:24 +0000"
+    },
+    "done": true
+  },
   "allthemodium:recipes/misc/raw_vibranium_block": {
     "criteria": {
       "has_raw_vibranium": "2025-04-06 15:41:14 +0000"
@@ -12264,6 +12270,12 @@
   "justdirethings:recipes/misc/celestigem_boots": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-04-06 15:47:24 +0000"
     },
     "done": true
   },
