@@ -1597,3 +1597,4 @@ Caused by: java.io.IOException: Invalid tag id: 16
 	... 55 more
 [06Apr2025 14:44:59.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
 [06Apr2025 14:58:01.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[06Apr2025 15:23:33.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 8.857480538312473,-2.895285782181986,-7.966210813459838

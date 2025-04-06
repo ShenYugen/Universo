@@ -9969,6 +9969,7 @@
   "the_bumblezone:the_queens_desire/journeys_end": {
     "criteria": {
       "target_advancement_done_2": "2025-04-06 14:06:26 +0000",
+      "target_advancement_done_16": "2025-04-06 15:23:40 +0000",
       "target_advancement_done_13": "2025-03-16 23:53:51 +0000"
     },
     "done": false
@@ -12023,6 +12024,12 @@
   "justdirethings:recipes/misc/droppert2": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/too_many_legs": {
+    "criteria": {
+      "spider_killed": "2025-04-06 15:23:40 +0000"
     },
     "done": true
   },
