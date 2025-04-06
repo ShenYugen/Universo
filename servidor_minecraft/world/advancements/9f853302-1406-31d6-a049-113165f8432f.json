@@ -11985,9 +11985,27 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/vibranium_dust_from_ore_crushing": {
+    "criteria": {
+      "has_item": "2025-04-06 15:41:14 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-04-06 15:43:13 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/celestigem_shovel": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
     },
     "done": true
   },
@@ -12003,15 +12021,45 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/vibranium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/fluidcollectort2": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
     },
     "done": true
   },
+  "allthemodium:recipes/misc/vibranium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/vibranium_robes_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/celestigem_paxel": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-04-06 15:41:14 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/raw_vibranium_block": {
+    "criteria": {
+      "has_raw_vibranium": "2025-04-06 15:41:14 +0000"
     },
     "done": true
   },
@@ -12024,6 +12072,12 @@
   "justdirethings:recipes/misc/droppert2": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/vibranium_leggings_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
     },
     "done": true
   },
@@ -12063,6 +12117,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/vibranium_ingot_from_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-04-06 15:43:13 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/celestigem_helmet": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
@@ -12078,6 +12138,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-04-06 14:08:53 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/vibranium_hat_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
     },
     "done": true
   },
@@ -12105,9 +12171,21 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/vibranium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/refined_t3_fluid_block-goospread": {
     "criteria": {
       "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_raw_smelting": {
+    "criteria": {
+      "has_item": "2025-04-06 15:41:14 +0000"
     },
     "done": true
   },
@@ -12159,6 +12237,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/vibranium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/clickert2": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
@@ -12171,9 +12255,21 @@
     },
     "done": true
   },
+  "allthearcanistgear:recipes/combat/vibranium_spell_book_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/celestigem_boots": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/vibranium_boots_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
     },
     "done": true
   },
