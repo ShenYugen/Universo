@@ -11586,9 +11586,75 @@
     },
     "done": true
   },
+  "justdirethings:recipes/misc/raw_blazegold_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t2": "2025-04-06 12:14:06 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_ferricore_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t1": "2025-04-06 12:14:00 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/refined_t2_fluid_block-goospread": {
+    "criteria": {
+      "has_goo_block_t2": "2025-04-06 12:14:06 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_ingot_blasted": {
+    "criteria": {
+      "has_blazegold_raw": "2025-04-06 12:17:39 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/nickel_blockblock": {
+    "criteria": {
+      "has_nickel_ingot": "2025-04-06 12:13:40 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_coal_t1_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t1": "2025-04-06 12:14:00 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blazegold_ingot_smelted": {
+    "criteria": {
+      "has_blazegold_raw": "2025-04-06 12:17:39 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_coal_t1_ore-goospread_tag": {
+    "criteria": {
+      "has_goo_block_t1": "2025-04-06 12:14:00 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/gooblock_tier1": {
     "criteria": {
       "has_coal": "2025-04-06 12:07:32 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/gooblock_tier2": {
+    "criteria": {
+      "has_goo_block1": "2025-04-06 12:14:00 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/gooblock_tier3": {
+    "criteria": {
+      "has_goo_block2": "2025-04-06 12:14:06 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_coal_t2_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t2": "2025-04-06 12:14:06 +0000"
     },
     "done": true
   },
