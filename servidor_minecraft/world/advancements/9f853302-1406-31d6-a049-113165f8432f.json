@@ -11978,15 +11978,57 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-06 14:51:06 +0000"
+    },
+    "done": false
+  },
   "the_bumblezone:the_queens_desire/fighting_the_swarm": {
     "criteria": {
       "silverfish_killed": "2025-04-06 14:06:26 +0000"
     },
     "done": true
   },
+  "justdirethings:recipes/misc/celestigem_shovel": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-06 14:44:31 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/portal_fluid_catalyst": {
     "criteria": {
       "has_chorus_fruit": "2025-04-06 14:34:42 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/fluidcollectort2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_paxel": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_pickaxe": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/droppert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
     },
     "done": true
   },
@@ -12002,9 +12044,33 @@
     },
     "done": true
   },
+  "justdirethings:recipes/misc/voidshift_wand": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-06 14:44:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-04-06 13:50:31 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_helmet": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_sword": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
     },
     "done": true
   },
@@ -12014,9 +12080,111 @@
     },
     "done": true
   },
+  "justdirethings:recipes/misc/celestigem_leggings": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blockbreakert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_celestigem_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/bow_celestigem": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/refined_t3_fluid_block-goospread": {
+    "criteria": {
+      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blockplacert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/clickert2_nbtclear": {
+    "criteria": {
+      "has_clickert2": "2025-04-06 14:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-06 14:44:31 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_axe": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-04-06 14:13:53 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/building_blocks/celestigem_9x9": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_coal_t3_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/portalgun_v2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/clickert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/fluidplacert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_boots": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/gooblock_tier4": {
+    "criteria": {
+      "has_goo_block3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/portal_fluid_block-goospread": {
+    "criteria": {
+      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
     },
     "done": true
   },
@@ -12029,6 +12197,36 @@
   "nullscape:root": {
     "criteria": {
       "nullscape:shadowlands": "2025-04-06 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_hoe": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-06 14:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-06 14:44:31 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_chestplate": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/sensort2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
     },
     "done": true
   },

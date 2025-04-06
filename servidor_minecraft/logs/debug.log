@@ -19087,3 +19087,5 @@ Caused by: java.io.IOException: Invalid tag id: 16
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
 	... 55 more
 [06Apr2025 14:44:59.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
+[06Apr2025 14:46:06.660] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Apr2025 14:51:06.642] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
