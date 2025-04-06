@@ -11978,12 +11978,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-06 14:51:06 +0000"
-    },
-    "done": false
-  },
   "the_bumblezone:the_queens_desire/fighting_the_swarm": {
     "criteria": {
       "silverfish_killed": "2025-04-06 14:06:26 +0000"
