@@ -12015,6 +12015,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-04-06 16:27:17 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/portal_fluid_catalyst": {
     "criteria": {
       "has_chorus_fruit": "2025-04-06 14:34:42 +0000"
@@ -12096,6 +12102,12 @@
   "justdirethings:recipes/building_blocks/charcoal_9x9": {
     "criteria": {
       "has_charcoal": "2025-04-06 13:59:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_crimson_trapdoor": "2025-04-06 16:35:11 +0000"
     },
     "done": true
   },
@@ -12240,6 +12252,12 @@
   "justdirethings:recipes/misc/portalgun_v2": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-04-06 16:27:17 +0000"
     },
     "done": true
   },
