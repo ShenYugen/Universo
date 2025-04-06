@@ -11984,6 +11984,12 @@
     },
     "done": true
   },
+  "justdirethings:recipes/misc/portal_fluid_catalyst": {
+    "criteria": {
+      "has_chorus_fruit": "2025-04-06 14:34:42 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/building_blocks/charcoal_9x9": {
     "criteria": {
       "has_charcoal": "2025-04-06 13:59:45 +0000"
