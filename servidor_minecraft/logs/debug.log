@@ -18810,3 +18810,13 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [06Apr2025 14:11:01.058] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=56, z=0}
 [06Apr2025 14:13:53.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [You Need a Mint]
 [06Apr2025 14:14:44.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Apr2025 14:15:52.230] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Apr2025 14:18:59.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[06Apr2025 14:19:59.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Desolation]
+[06Apr2025 14:20:15.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06Apr2025 14:20:54.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Apr2025 14:20:58.210] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Apr2025 14:25:32.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Almost Unkillable]
+[06Apr2025 14:25:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen fell out of the world
+[06Apr2025 14:25:32.270] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:-1534, y:29, z:1760, dim:minecraft:the_end]
+[06Apr2025 14:25:32.275] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
