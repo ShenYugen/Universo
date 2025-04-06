@@ -18466,3 +18466,22 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [06Apr2025 13:30:18.291] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-862, y=69, z=-20226} with deep BlockPos{x=-862, y=-59, z=-20226}
 [06Apr2025 13:30:34.701] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [06Apr2025 13:31:56.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[06Apr2025 13:35:05.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[06Apr2025 13:35:34.647] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Apr2025 13:36:51.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=336, y=145, z=-15524} BlockPos{x=421, y=153, z=-15513}
+[06Apr2025 13:36:51.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=336, y=145, z=-15524} BlockPos{x=421, y=153, z=-15513}
+[06Apr2025 13:36:57.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=336, y=145, z=-15524} BlockPos{x=421, y=153, z=-15513}
+[06Apr2025 13:37:10.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Timed out
+[06Apr2025 13:37:10.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[06Apr2025 13:37:10.324] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Apr2025 13:38:05.644] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@12a58560 into net.minecraft.network.Connection@412e62
+[06Apr2025 13:38:06.161] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[06Apr2025 13:38:06.810] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2cced0f7 into net.minecraft.network.Connection@412e62
+[06Apr2025 13:38:06.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/127.12.124.144:43151] logged in with entity id 29822 at (419.3982042712868, 152.0, -15514.39893261559)
+[06Apr2025 13:38:07.032] [Server thread/INFO] [owo/]: Sending server config values to client
+[06Apr2025 13:38:07.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[06Apr2025 13:38:07.083] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to ShenYugen (9f853302-1406-31d6-a049-113165f8432f)
+[06Apr2025 13:38:07.689] [Server thread/INFO] [owo/]: Receiving client config
+[06Apr2025 13:39:41.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[06Apr2025 13:40:34.651] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Apr2025 13:41:22.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
