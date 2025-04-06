@@ -20235,3 +20235,10 @@ Caused by: java.io.IOException: Invalid tag id: 19
 [06Apr2025 16:05:55.576] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [06Apr2025 16:05:55.626] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [06Apr2025 16:06:14.119] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Apr2025 16:11:14.121] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Apr2025 16:14:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -896.500000, -50.500000, -16015.500000]
+[06Apr2025 16:16:00.982] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[06Apr2025 16:16:01.934] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[06Apr2025 16:16:02.891] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[06Apr2025 16:16:14.130] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Apr2025 16:16:40.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
