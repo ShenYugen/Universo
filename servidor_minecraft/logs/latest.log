@@ -1501,3 +1501,19 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [06Apr2025 13:47:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1046.500000, 84.500000, -20171.500000]
 [06Apr2025 13:50:31.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Eye Spy]
 [06Apr2025 14:02:59.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved wrongly!
+[06Apr2025 14:06:03.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1037.500000, 0.500000, -20028.500000]
+[06Apr2025 14:08:52.728] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Apr2025 14:08:52.729] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Apr2025 14:08:52.729] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Apr2025 14:08:53.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The End?]
+[06Apr2025 14:08:53.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7917ms or 158 ticks behind
+[06Apr2025 14:09:01.293] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[06Apr2025 14:09:01.301] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[06Apr2025 14:09:01.309] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[06Apr2025 14:09:01.310] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=56, z=0}
+[06Apr2025 14:09:15.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7620ms or 152 ticks behind
+[06Apr2025 14:10:30.927] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Apr2025 14:10:30.932] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[06Apr2025 14:11:01.058] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=56, z=0}
+[06Apr2025 14:13:53.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [You Need a Mint]
+[06Apr2025 14:14:44.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind

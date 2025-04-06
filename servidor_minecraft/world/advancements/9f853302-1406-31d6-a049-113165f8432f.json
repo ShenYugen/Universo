@@ -9968,6 +9968,7 @@
   },
   "the_bumblezone:the_queens_desire/journeys_end": {
     "criteria": {
+      "target_advancement_done_2": "2025-04-06 14:06:26 +0000",
       "target_advancement_done_13": "2025-03-16 23:53:51 +0000"
     },
     "done": false
@@ -11977,6 +11978,12 @@
     },
     "done": true
   },
+  "the_bumblezone:the_queens_desire/fighting_the_swarm": {
+    "criteria": {
+      "silverfish_killed": "2025-04-06 14:06:26 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/building_blocks/charcoal_9x9": {
     "criteria": {
       "has_charcoal": "2025-04-06 13:59:45 +0000"
@@ -11986,6 +11993,18 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-04-06 13:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-06 14:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-06 14:08:53 +0000"
     },
     "done": true
   },
