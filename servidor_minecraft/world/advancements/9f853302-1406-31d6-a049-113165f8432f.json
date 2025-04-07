@@ -11979,123 +11979,9 @@
     },
     "done": true
   },
-  "the_bumblezone:the_queens_desire/fighting_the_swarm": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "silverfish_killed": "2025-04-06 14:06:26 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_dust_from_ore_crushing": {
-    "criteria": {
-      "has_item": "2025-04-06 15:41:14 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-04-06 15:43:13 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/celestigem_shovel": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-04-06 14:44:31 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/allthemodium_ingot_from_dust_smelting": {
-    "criteria": {
-      "has_item": "2025-04-06 16:27:17 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/portal_fluid_catalyst": {
-    "criteria": {
-      "has_chorus_fruit": "2025-04-06 14:34:42 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/fluidcollectort2": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "allthearcanistgear:recipes/combat/vibranium_robes_smithing": {
-    "criteria": {
-      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/celestigem_paxel": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-04-06 15:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_rod": {
-    "criteria": {
-      "has_chorus_fruit_popped": "2025-04-06 15:47:24 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/raw_vibranium_block": {
-    "criteria": {
-      "has_raw_vibranium": "2025-04-06 15:41:14 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/celestigem_pickaxe": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/droppert2": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "allthearcanistgear:recipes/combat/vibranium_leggings_smithing": {
-    "criteria": {
-      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/too_many_legs": {
-    "criteria": {
-      "spider_killed": "2025-04-06 15:23:40 +0000"
+      "in_stronghold": "2025-04-06 13:50:31 +0000"
     },
     "done": true
   },
@@ -12105,51 +11991,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/crimson_cabinet": {
+  "the_bumblezone:the_queens_desire/fighting_the_swarm": {
     "criteria": {
-      "has_crimson_trapdoor": "2025-04-06 16:35:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/almost_unkillable": {
-    "criteria": {
-      "coded_trigger": "2025-04-06 14:25:32 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/voidshift_wand": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-04-06 14:44:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-04-06 13:50:31 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_ingot_from_dust_smelting": {
-    "criteria": {
-      "has_item": "2025-04-06 15:43:13 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/celestigem_helmet": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/celestigem_sword": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
+      "silverfish_killed": "2025-04-06 14:06:26 +0000"
     },
     "done": true
   },
@@ -12159,75 +12003,9 @@
     },
     "done": true
   },
-  "allthearcanistgear:recipes/combat/vibranium_hat_smithing": {
+  "minecraft:end/root": {
     "criteria": {
-      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/celestigem_leggings": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/blockbreakert2": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/raw_celestigem_ore-goospread": {
-    "criteria": {
-      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/bow_celestigem": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/refined_t3_fluid_block-goospread": {
-    "criteria": {
-      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_ingot_from_raw_smelting": {
-    "criteria": {
-      "has_item": "2025-04-06 15:41:14 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/blockplacert2": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/clickert2_nbtclear": {
-    "criteria": {
-      "has_clickert2": "2025-04-06 14:48:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-04-06 14:44:31 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/celestigem_axe": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
+      "entered_end": "2025-04-06 14:08:53 +0000"
     },
     "done": true
   },
@@ -12237,99 +12015,39 @@
     },
     "done": true
   },
-  "justdirethings:recipes/building_blocks/celestigem_9x9": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/raw_coal_t3_ore-goospread": {
-    "criteria": {
-      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/portalgun_v2": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/allthemodium_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-04-06 16:27:17 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/clickert2": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/fluidplacert2": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "allthearcanistgear:recipes/combat/vibranium_spell_book_smithing": {
-    "criteria": {
-      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/celestigem_boots": {
-    "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_block": {
-    "criteria": {
-      "has_chorus_fruit_popped": "2025-04-06 15:47:24 +0000"
-    },
-    "done": true
-  },
-  "allthearcanistgear:recipes/combat/vibranium_boots_smithing": {
-    "criteria": {
-      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/gooblock_tier4": {
-    "criteria": {
-      "has_goo_block3": "2025-04-06 14:45:21 +0000"
-    },
-    "done": true
-  },
-  "justdirethings:recipes/misc/portal_fluid_block-goospread": {
-    "criteria": {
-      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-04-06 14:08:53 +0000"
-    },
-    "done": true
-  },
   "nullscape:root": {
     "criteria": {
       "nullscape:shadowlands": "2025-04-06 14:19:59 +0000"
     },
     "done": true
   },
-  "justdirethings:recipes/misc/celestigem_hoe": {
+  "tombstone:adventure/almost_unkillable": {
     "criteria": {
-      "has_celestigem": "2025-04-06 14:48:09 +0000"
+      "coded_trigger": "2025-04-06 14:25:32 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/portal_fluid_catalyst": {
+    "criteria": {
+      "has_chorus_fruit": "2025-04-06 14:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-06 14:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-06 14:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-06 14:44:31 +0000"
     },
     "done": true
   },
@@ -12345,6 +12063,150 @@
     },
     "done": true
   },
+  "justdirethings:recipes/misc/raw_celestigem_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/refined_t3_fluid_block-goospread": {
+    "criteria": {
+      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_coal_t3_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/gooblock_tier4": {
+    "criteria": {
+      "has_goo_block3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/portal_fluid_block-goospread": {
+    "criteria": {
+      "has_goo_block_t3": "2025-04-06 14:45:21 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_shovel": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/fluidcollectort2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_paxel": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_pickaxe": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/droppert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/voidshift_wand": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_helmet": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_sword": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_leggings": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blockbreakert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/bow_celestigem": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blockplacert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_axe": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/building_blocks/celestigem_9x9": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/portalgun_v2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/clickert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/fluidplacert2": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_boots": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_hoe": {
+    "criteria": {
+      "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/celestigem_chestplate": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
@@ -12354,6 +12216,150 @@
   "justdirethings:recipes/misc/sensort2": {
     "criteria": {
       "has_celestigem": "2025-04-06 14:48:09 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/clickert2_nbtclear": {
+    "criteria": {
+      "has_clickert2": "2025-04-06 14:48:17 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/too_many_legs": {
+    "criteria": {
+      "spider_killed": "2025-04-06 15:23:40 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_dust_from_ore_crushing": {
+    "criteria": {
+      "has_item": "2025-04-06 15:41:14 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-04-06 15:41:14 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/raw_vibranium_block": {
+    "criteria": {
+      "has_raw_vibranium": "2025-04-06 15:41:14 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_raw_smelting": {
+    "criteria": {
+      "has_item": "2025-04-06 15:41:14 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-04-06 15:43:13 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-04-06 15:43:13 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/vibranium_robes_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/vibranium_leggings_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/vibranium_hat_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/vibranium]_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/vibranium_spell_book_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/vibranium_boots_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-06 15:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-04-06 15:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-04-06 15:47:24 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-04-06 16:27:17 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-04-06 16:27:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_crimson_trapdoor": "2025-04-06 16:35:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 16:39:19 +0000"
     },
     "done": true
   },

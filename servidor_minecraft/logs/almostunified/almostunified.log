@@ -1,28 +1,28 @@
-[12:54:58.668] [INFO]: Loading config 'startup.json'.
-[12:55:04.317] [INFO]: Loaded plugins: almostunified:common, almostunified:neoforge
-[12:55:11.103] [WARN]: Reload detected. Reconstructing runtime.
-[12:55:11.104] [INFO]: Loading config 'debug.json'.
-[12:55:11.110] [INFO]: Loading config 'placeholders.json'.
-[12:55:11.117] [INFO]: Loading config 'tags.json'.
-[12:55:11.170] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/iron' -> [oritech:iron_dust]
-[12:55:11.172] [INFO]: [AutoHiding] Hiding 7/9 items for tag '#c:ores/iron' -> [stellaris:mars_iron_ore, undergarden:shiverstone_iron_ore, stellaris:mercury_iron_ore, undergarden:depthrock_iron_ore, stellaris:moon_iron_ore, deeperdarker:gloomslate_iron_ore, deeperdarker:sculk_stone_iron_ore]
-[12:55:11.172] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:ingots/steel' -> [stellaris:steel_ingot, oritech:biosteel_ingot, oritech:steel_ingot]
-[12:55:11.173] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/steel' -> [oritech:steel_dust]
-[12:55:11.173] [INFO]: [AutoHiding] Hiding 6/8 items for tag '#c:ores/diamond' -> [stellaris:venus_diamond_ore, stellaris:mars_diamond_ore, undergarden:shiverstone_diamond_ore, deeperdarker:sculk_stone_diamond_ore, deeperdarker:gloomslate_diamond_ore, undergarden:depthrock_diamond_ore]
-[12:55:11.174] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/copper' -> [deeperdarker:sculk_stone_copper_ore, deeperdarker:gloomslate_copper_ore]
-[12:55:11.174] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/steel' -> [stellaris:steel_nugget]
-[12:55:11.174] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/steel' -> [oritech:steel_block, stellaris:steel_block]
-[12:55:11.174] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_uranium' -> [stellaris:raw_uranium_block]
-[12:55:11.174] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/uranium' -> [stellaris:mercury_uranium_ore, oritech:deepslate_uranium_ore]
-[12:55:11.175] [INFO]: [AutoHiding] Hiding 4/7 items for tag '#c:ores/gold' -> [undergarden:depthrock_gold_ore, deeperdarker:gloomslate_gold_ore, deeperdarker:sculk_stone_gold_ore, stellaris:venus_gold_ore]
-[12:55:11.175] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/gold' -> [oritech:gold_dust]
-[12:55:11.175] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/uranium' -> [oritech:uranium_dust]
-[12:55:11.176] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/lapis' -> [deeperdarker:gloomslate_lapis_ore, deeperdarker:sculk_stone_lapis_ore]
-[12:55:11.176] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/emerald' -> [deeperdarker:sculk_stone_emerald_ore, deeperdarker:gloomslate_emerald_ore]
-[12:55:11.176] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/uranium' -> [stellaris:uranium_ingot]
-[12:55:11.176] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/copper' -> [oritech:copper_dust]
-[12:55:11.176] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/uranium' -> [stellaris:uranium_block]
-[12:55:11.177] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:raw_materials/uranium' -> [oritech:raw_uranium, stellaris:raw_uranium]
-[12:55:11.802] [INFO]: Loading config 'duplicates.json'.
-[12:55:11.805] [INFO]: Recipe count: 11212
-[12:55:12.866] [INFO]: Recipe count afterwards: 11161 (done in 1.061 s)
+[00:51:40.497] [INFO]: Loading config 'startup.json'.
+[00:51:46.384] [INFO]: Loaded plugins: almostunified:common, almostunified:neoforge
+[00:51:53.337] [WARN]: Reload detected. Reconstructing runtime.
+[00:51:53.338] [INFO]: Loading config 'debug.json'.
+[00:51:53.340] [INFO]: Loading config 'placeholders.json'.
+[00:51:53.343] [INFO]: Loading config 'tags.json'.
+[00:51:53.411] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/steel' -> [stellaris:steel_nugget]
+[00:51:53.414] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/copper' -> [oritech:copper_dust]
+[00:51:53.414] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/steel' -> [oritech:steel_dust]
+[00:51:53.416] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/uranium' -> [stellaris:uranium_ingot]
+[00:51:53.416] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_uranium' -> [stellaris:raw_uranium_block]
+[00:51:53.417] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/uranium' -> [stellaris:mercury_uranium_ore, oritech:deepslate_uranium_ore]
+[00:51:53.417] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/emerald' -> [deeperdarker:sculk_stone_emerald_ore, deeperdarker:gloomslate_emerald_ore]
+[00:51:53.417] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/iron' -> [oritech:iron_dust]
+[00:51:53.420] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:ingots/steel' -> [stellaris:steel_ingot, oritech:biosteel_ingot, oritech:steel_ingot]
+[00:51:53.420] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/copper' -> [deeperdarker:sculk_stone_copper_ore, deeperdarker:gloomslate_copper_ore]
+[00:51:53.421] [INFO]: [AutoHiding] Hiding 4/7 items for tag '#c:ores/gold' -> [undergarden:depthrock_gold_ore, deeperdarker:gloomslate_gold_ore, deeperdarker:sculk_stone_gold_ore, stellaris:venus_gold_ore]
+[00:51:53.421] [INFO]: [AutoHiding] Hiding 6/8 items for tag '#c:ores/diamond' -> [stellaris:venus_diamond_ore, stellaris:mars_diamond_ore, undergarden:shiverstone_diamond_ore, deeperdarker:sculk_stone_diamond_ore, deeperdarker:gloomslate_diamond_ore, undergarden:depthrock_diamond_ore]
+[00:51:53.421] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/uranium' -> [oritech:uranium_dust]
+[00:51:53.422] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/steel' -> [oritech:steel_block, stellaris:steel_block]
+[00:51:53.422] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/uranium' -> [stellaris:uranium_block]
+[00:51:53.422] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/gold' -> [oritech:gold_dust]
+[00:51:53.423] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:raw_materials/uranium' -> [oritech:raw_uranium, stellaris:raw_uranium]
+[00:51:53.423] [INFO]: [AutoHiding] Hiding 7/9 items for tag '#c:ores/iron' -> [stellaris:mars_iron_ore, undergarden:shiverstone_iron_ore, stellaris:mercury_iron_ore, undergarden:depthrock_iron_ore, stellaris:moon_iron_ore, deeperdarker:gloomslate_iron_ore, deeperdarker:sculk_stone_iron_ore]
+[00:51:53.424] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/lapis' -> [deeperdarker:gloomslate_lapis_ore, deeperdarker:sculk_stone_lapis_ore]
+[00:51:54.306] [INFO]: Loading config 'duplicates.json'.
+[00:51:54.310] [INFO]: Recipe count: 11201
+[00:51:54.906] [INFO]: Recipe count afterwards: 11150 (done in 596.1 ms)
