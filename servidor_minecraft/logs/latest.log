@@ -1473,3 +1473,8 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [07Apr2025 14:16:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [The Final Bookshelf]
 [07Apr2025 14:17:56.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [07Apr2025 14:18:00.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4115ms or 82 ticks behind
+[07Apr2025 14:26:47.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 300.500000, 63.500000, -15602.500000]
+[07Apr2025 14:33:34.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 14:36:01.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Serious Dedication]
+[07Apr2025 14:36:27.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 300.500000, 63.500000, -15602.500000]
+[07Apr2025 14:38:12.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]

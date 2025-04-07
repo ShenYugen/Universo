@@ -12576,6 +12576,18 @@
     },
     "done": true
   },
+  "justdirethings:recipes/misc/refined_t4_fluid_block-goospread": {
+    "criteria": {
+      "has_goo_block_t4": "2025-04-07 14:39:32 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_coal_t4_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t4": "2025-04-07 14:39:32 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/soul_elytra": {
     "criteria": {
       "has_elytra": "2025-04-07 14:15:31 +0000"
@@ -12624,6 +12636,12 @@
     },
     "done": true
   },
+  "justdirethings:recipes/misc/budding_time_amethyst": {
+    "criteria": {
+      "has_goo_block_t4": "2025-04-07 14:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-04-07 14:06:49 +0000"
@@ -12654,9 +12672,21 @@
     },
     "done": true
   },
+  "justdirethings:recipes/misc/budding_time_timeblock": {
+    "criteria": {
+      "has_goo_block_t4": "2025-04-07 14:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2025-04-07 13:58:36 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/raw_eclipsealloy_ore-goospread": {
+    "criteria": {
+      "has_goo_block_t4": "2025-04-07 14:39:32 +0000"
     },
     "done": true
   },
@@ -12681,6 +12711,12 @@
   "apothic_enchanting:upgrade_endshelf": {
     "criteria": {
       "draconic": "2025-04-07 14:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-04-07 14:36:01 +0000"
     },
     "done": true
   },
