@@ -16507,3 +16507,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [07Apr2025 02:43:54.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Palette Swap]
 [07Apr2025 02:47:19.182] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [07Apr2025 02:52:19.134] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 02:57:00.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2312, y=32, z=1174} BlockPos{x=-2313, y=31, z=1174}
+[07Apr2025 02:57:19.128] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 02:59:46.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2289.500000, 28.500000, 1216.500000]
+[07Apr2025 03:00:18.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 03:00:21.315] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-2332 | 89 | 1252).
+[07Apr2025 03:00:21.316] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[07Apr2025 03:00:21.318] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 6(0) Rooms
+[07Apr2025 03:00:21.318] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[07Apr2025 03:00:21.319] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 10(0) Nodes and 5(0) Rooms
+[07Apr2025 03:00:21.319] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[07Apr2025 03:00:21.319] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 7(0) Rooms
+[07Apr2025 03:00:21.319] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[07Apr2025 03:00:21.319] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 12(0) Nodes and 7(0) Rooms
+[07Apr2025 03:00:21.319] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[07Apr2025 03:00:21.320] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 7(0) Rooms
+[07Apr2025 03:00:25.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7058ms or 141 ticks behind
+[07Apr2025 03:02:26.183] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
