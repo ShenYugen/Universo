@@ -1450,3 +1450,10 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [07Apr2025 13:44:31.333] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/13145, l='ServerLevel[world]', x=-2499.62, y=84.00, z=-16140.77] died, message: 'Nitwit was pricked to death'
 [07Apr2025 13:46:22.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [07Apr2025 13:50:58.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 13:57:58.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 13:58:14.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Enchantments from the Depths]
+[07Apr2025 14:00:27.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Dragon-Slaying Enchanter]
+[07Apr2025 14:03:25.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2289.500000, 28.500000, 1216.500000]
+[07Apr2025 14:03:26.454] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Apr2025 14:03:26.455] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Apr2025 14:03:26.455] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
