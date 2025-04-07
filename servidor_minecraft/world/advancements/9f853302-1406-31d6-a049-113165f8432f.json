@@ -12363,11 +12363,23 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
+  "justdirethings:recipes/misc/itemcollector_nbtclear": {
     "criteria": {
-      "direct": "2025-04-07 01:07:13 +0000"
+      "has_itemcollector": "2025-04-07 01:08:00 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-04-07 01:14:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/advanced_hopper_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-04-07 01:14:52 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
