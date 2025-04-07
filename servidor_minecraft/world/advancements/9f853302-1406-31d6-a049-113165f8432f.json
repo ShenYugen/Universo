@@ -12696,6 +12696,18 @@
     },
     "done": true
   },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-04-07 14:57:32 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/blockbreakert2_nbtclear": {
+    "criteria": {
+      "has_blockbreakert2": "2025-04-07 15:00:22 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/raw_eclipsealloy_ore-goospread": {
     "criteria": {
       "has_goo_block_t4": "2025-04-07 14:39:32 +0000"
