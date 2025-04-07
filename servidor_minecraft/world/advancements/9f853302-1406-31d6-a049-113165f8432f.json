@@ -3907,6 +3907,7 @@
       "minecraft:witch": "2025-02-22 20:45:45 +0000",
       "minecraft:wither_skeleton": "2025-03-16 18:43:12 +0000",
       "minecraft:husk": "2025-03-11 20:21:25 +0000",
+      "minecraft:shulker": "2025-04-07 02:44:18 +0000",
       "minecraft:cave_spider": "2025-02-22 19:23:45 +0000",
       "minecraft:piglin": "2025-02-22 22:26:40 +0000",
       "minecraft:stray": "2025-02-22 19:33:44 +0000",
@@ -12396,6 +12397,12 @@
   "sophisticatedstorage:recipes/misc/double_netherite_chest": {
     "criteria": {
       "has_diamond_chest": "2025-04-07 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-04-07 02:43:54 +0000"
     },
     "done": true
   },

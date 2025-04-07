@@ -1404,3 +1404,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [07Apr2025 02:38:41.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -7.437658844701218,0.0,-7.944734090468273
 [07Apr2025 02:38:43.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -7.229615312135593,0.0,-8.15715459340413
 [07Apr2025 02:41:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [A Ruined Citadel]
+[07Apr2025 02:43:54.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Palette Swap]
