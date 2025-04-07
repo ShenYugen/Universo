@@ -12363,5 +12363,11 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-04-07 01:07:13 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3955
 }
