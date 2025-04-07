@@ -16448,3 +16448,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [07Apr2025 02:07:13.379] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [07Apr2025 02:10:05.924] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
 [07Apr2025 02:12:13.446] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 02:13:11.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 02:17:13.371] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 02:22:13.376] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
