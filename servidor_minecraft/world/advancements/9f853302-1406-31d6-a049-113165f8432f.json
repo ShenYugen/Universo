@@ -12570,5 +12570,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2025-04-07 13:41:36 +0000"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/creaturecatcher": {
+    "criteria": {
+      "has_the_recipe": "2025-04-07 13:43:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
