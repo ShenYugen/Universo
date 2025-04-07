@@ -12363,9 +12363,27 @@
     },
     "done": true
   },
+  "minecraft:oritech/foundry": {
+    "criteria": {
+      "got_foundry": "2025-04-07 01:37:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-04-07 01:27:58 +0000"
+    },
+    "done": true
+  },
   "justdirethings:recipes/misc/itemcollector_nbtclear": {
     "criteria": {
       "has_itemcollector": "2025-04-07 01:08:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-04-07 01:27:58 +0000"
     },
     "done": true
   },
@@ -12375,9 +12393,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-04-07 01:33:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/advanced_hopper_upgrade": {
     "criteria": {
       "has_feeding_upgrade": "2025-04-07 01:14:52 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/foundry": {
+    "criteria": {
+      "has_foundry_block": "2025-04-07 01:37:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-04-07 01:27:58 +0000"
     },
     "done": true
   },
