@@ -12363,6 +12363,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-07 02:41:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_4_from_storage_stack_upgrade_tier_5": {
     "criteria": {
       "has_storage_stack_upgrade": "2025-04-07 01:45:53 +0000"

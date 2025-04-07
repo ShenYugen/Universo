@@ -16493,3 +16493,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [07Apr2025 02:31:30.411] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [07Apr2025 02:31:31.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
 [07Apr2025 02:32:16.927] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 02:36:45.189] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 765bc7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Apr2025 02:36:45.955] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 765bc7cc: RandomSpreadSearchWorker succeeded with 1277 radius, 3 samples
+[07Apr2025 02:37:17.016] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 02:38:29.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[07Apr2025 02:38:29.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -7.203198864584465,0.0,-7.671099308079647
+[07Apr2025 02:38:31.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -7.018968841865444,0.0,-7.473465968698974
+[07Apr2025 02:38:34.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -6.876551104818191,0.0,-7.321826299803888
+[07Apr2025 02:38:41.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -7.437658844701218,0.0,-7.944734090468273
+[07Apr2025 02:38:43.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -7.229615312135593,0.0,-8.15715459340413
+[07Apr2025 02:41:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [A Ruined Citadel]
+[07Apr2025 02:42:19.136] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
