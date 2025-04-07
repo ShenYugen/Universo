@@ -16390,3 +16390,770 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [07Apr2025 13:13:31.932] [Server thread/DEBUG] [com.cerbon.bosses_of_mass_destruction.util.BMDConstants/]: Loaded com.cerbon.bosses_of_mass_destruction.neoforge.platform.NeoCapabilityHelper@2ba14499 for service interface com.cerbon.bosses_of_mass_destruction.platform.services.ICapabilityHelper
 [07Apr2025 13:13:32.104] [Server thread/INFO] [owo/]: Receiving client config
 [07Apr2025 13:18:22.086] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 13:23:21.892] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 13:26:10.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2483.500000, 82.500000, -16396.500000]
+[07Apr2025 13:26:32.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -3.2389342948758895,-0.7788424086158869,10.19205207620871
+[07Apr2025 13:26:33.441] [Server thread/DEBUG] [Lithium/]: Loaded net.caffeinemc.mods.lithium.neoforge.NeoForgeModCompat@4e903588 for service interface net.caffeinemc.mods.lithium.common.services.PlatformModCompat
+[07Apr2025 13:26:40.278] [Worker-Main-2/DEBUG] [mixin/]: Mixing NoiseChunkMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[07Apr2025 13:26:40.278] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:26:40.279] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$yungsapi_dontFillMarkedPositions$0()Lcom/yungnickyoung/minecraft/yungsapi/world/structure/terrainadaptation/aquiferoverride/AquiferOverrideMask; to md1514bf$yungsapi$lambda$yungsapi_dontFillMarkedPositions$0$0 in yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi
+[07Apr2025 13:26:40.295] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.NoiseChunkAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[07Apr2025 13:26:40.295] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.NoiseChunkAccessor from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:26:40.296] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[07Apr2025 13:26:40.296] [Worker-Main-2/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:world.NoiseChunkAccessor from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:26:40.296] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[07Apr2025 13:26:40.297] [Worker-Main-2/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:world.NoiseChunkMixin from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:26:40.297] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to md1514bf$the_bumblezone$lambda$injectWrapNew$1$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin from mod the_bumblezone
+[07Apr2025 13:26:40.298] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to md1514bf$the_bumblezone$lambda$injectWrapNew$0$2 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin from mod the_bumblezone
+[07Apr2025 13:26:40.303] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from fabric-biome-api-v1.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[07Apr2025 13:26:40.303] [Worker-Main-2/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:26:40.330] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi->@Inject::yungsapi_attachNoiseChunkToBeardifier(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[07Apr2025 13:26:40.330] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi->@Inject::yungsapi_attachNoiseChunkToBeardifier(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[07Apr2025 13:26:40.330] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi->@Inject::yungsapi_attachNoiseChunkToBeardifier(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[07Apr2025 13:26:40.330] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi->@Inject::yungsapi_dontFillMarkedPositions(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[07Apr2025 13:26:40.330] [Worker-Main-2/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[07Apr2025 13:26:40.330] [Worker-Main-2/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[07Apr2025 13:26:40.330] [Worker-Main-2/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[07Apr2025 13:26:40.331] [Worker-Main-2/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::createMultiNoiseSampler(Lnet/minecraft/world/level/levelgen/NoiseRouter;Ljava/util/List;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[07Apr2025 13:26:40.427] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[07Apr2025 13:26:40.921] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[07Apr2025 13:26:40.922] [Worker-Main-2/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:27:02.245] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Apr2025 13:27:02.245] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:27:02.249] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Apr2025 13:27:02.250] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:27:02.250] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.neoforge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Apr2025 13:27:02.250] [Worker-Main-2/DEBUG] [mixin/]: lithostitched.neoforge.mixins.json:common.BeardifierMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:27:02.254] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Apr2025 13:27:02.254] [Worker-Main-2/DEBUG] [mixin/]: cataclysm.mixins.json:accessor.BeardifierAccessor from mod cataclysm: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[07Apr2025 13:27:02.267] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_supportCustomTerrainAdaptations(Lnet/minecraft/world/level/StructureManager;Lnet/minecraft/world/level/ChunkPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[07Apr2025 13:27:02.267] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_calculateDensity(Lnet/minecraft/world/level/levelgen/DensityFunction$FunctionContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[07Apr2025 13:27:02.267] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07Apr2025 13:27:02.267] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07Apr2025 13:28:21.946] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 13:31:16.707] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[07Apr2025 13:31:16.707] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[07Apr2025 13:31:16.707] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[07Apr2025 13:31:16.707] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[07Apr2025 13:31:16.708] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[07Apr2025 13:31:16.708] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/level
+[07Apr2025 13:31:16.708] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/level
+[07Apr2025 13:31:16.708] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/type
+[07Apr2025 13:31:16.708] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/type
+[07Apr2025 13:31:16.708] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/ways_of_associativity
+[07Apr2025 13:31:16.708] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/ways_of_associativity
+[07Apr2025 13:31:16.708] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/coherency_line_size
+[07Apr2025 13:31:16.708] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/coherency_line_size
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/size
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/size
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/level
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/level
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/type
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/type
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/ways_of_associativity
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/ways_of_associativity
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/coherency_line_size
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/coherency_line_size
+[07Apr2025 13:31:16.709] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/size
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/size
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/level
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/level
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/type
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/type
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/ways_of_associativity
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/ways_of_associativity
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/coherency_line_size
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/coherency_line_size
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/size
+[07Apr2025 13:31:16.710] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/size
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/level
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/level
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/type
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/type
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/ways_of_associativity
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/ways_of_associativity
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/coherency_line_size
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/coherency_line_size
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/size
+[07Apr2025 13:31:16.711] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/size
+[07Apr2025 13:31:16.712] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[07Apr2025 13:31:16.712] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[07Apr2025 13:31:16.712] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[07Apr2025 13:31:16.712] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[07Apr2025 13:31:16.712] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/level
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/level
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/type
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/type
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/ways_of_associativity
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/ways_of_associativity
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/coherency_line_size
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/coherency_line_size
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/size
+[07Apr2025 13:31:16.713] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/size
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/level
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/level
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/type
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/type
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/ways_of_associativity
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/ways_of_associativity
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/coherency_line_size
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/coherency_line_size
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/size
+[07Apr2025 13:31:16.714] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/size
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/level
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/level
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/type
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/type
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/ways_of_associativity
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/ways_of_associativity
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/coherency_line_size
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/coherency_line_size
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/size
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/size
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/level
+[07Apr2025 13:31:16.715] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/level
+[07Apr2025 13:31:16.716] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/type
+[07Apr2025 13:31:16.716] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/type
+[07Apr2025 13:31:16.716] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/ways_of_associativity
+[07Apr2025 13:31:16.716] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/ways_of_associativity
+[07Apr2025 13:31:16.716] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/coherency_line_size
+[07Apr2025 13:31:16.716] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/coherency_line_size
+[07Apr2025 13:31:16.716] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/size
+[07Apr2025 13:31:16.716] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/size
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/level
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/level
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/type
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/type
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/ways_of_associativity
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/ways_of_associativity
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/coherency_line_size
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/coherency_line_size
+[07Apr2025 13:31:16.717] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/size
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/size
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/level
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/level
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/type
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/type
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/ways_of_associativity
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/ways_of_associativity
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/coherency_line_size
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/coherency_line_size
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/size
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/size
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/level
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/level
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/type
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/type
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/ways_of_associativity
+[07Apr2025 13:31:16.718] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/ways_of_associativity
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/coherency_line_size
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/coherency_line_size
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/size
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/size
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/level
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/level
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/type
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/type
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/ways_of_associativity
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/ways_of_associativity
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/coherency_line_size
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/coherency_line_size
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/size
+[07Apr2025 13:31:16.719] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/size
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/level
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/level
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/type
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/type
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/ways_of_associativity
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/ways_of_associativity
+[07Apr2025 13:31:16.720] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/coherency_line_size
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/coherency_line_size
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/size
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/size
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/level
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/level
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/type
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/type
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/ways_of_associativity
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/ways_of_associativity
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/coherency_line_size
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/coherency_line_size
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/size
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/size
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/level
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/level
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/type
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/type
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/ways_of_associativity
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/ways_of_associativity
+[07Apr2025 13:31:16.721] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/coherency_line_size
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/coherency_line_size
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/size
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/size
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/level
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/level
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/type
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/type
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/ways_of_associativity
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/ways_of_associativity
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/coherency_line_size
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/coherency_line_size
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/size
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/size
+[07Apr2025 13:31:16.722] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[07Apr2025 13:31:16.736] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[07Apr2025 13:31:16.737] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@135064ea
+[07Apr2025 13:31:16.737] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@639fee48
+[07Apr2025 13:31:16.754] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[07Apr2025 13:31:16.754] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[07Apr2025 13:31:16.757] [Worker-Main-1/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mss:desert_well
+net.minecraft.nbt.ReportedNbtException: Loading NBT data
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:519) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/mss@1.2.8-1.21/com.finndog.mss.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:108) ~[mss-1.2.8-1.21.jar%23387!/:?]
+	at TRANSFORMER/mss@1.2.8-1.21/com.finndog.mss.world.structures.GenericJigsawStructure.findGenerationPoint(GenericJigsawStructure.java:213) ~[mss-1.2.8-1.21.jar%23387!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.findValidGenerationPoint(Structure.java:197) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.generate(Structure.java:96) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.tryGenerateStructure(ChunkGenerator.java:555) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.lambda$createStructures$14(ChunkGenerator.java:489) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.createStructures(ChunkGenerator.java:473) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateStructureStarts(ChunkStatusTasks.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkMap.applyStep(ChunkMap.java:628) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.GenerationChunkHolder.applyStep(GenerationChunkHolder.java:64) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.scheduleChunkInLayer(ChunkGenerationTask.java:143) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.scheduleLayer(ChunkGenerationTask.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.scheduleNextLayer(ChunkGenerationTask.java:74) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.runUntilWait(ChunkGenerationTask.java:59) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkMap.lambda$runGenerationTask$21(ChunkMap.java:657) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.lambda$message$1(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ProcessorMailbox.pollTask(ProcessorMailbox.java:91) [server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ProcessorMailbox.pollUntil(ProcessorMailbox.java:146) [server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.IOException: Invalid tag id: 16
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.TagType$1.createException(TagType.java:58) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.TagType$1.load(TagType.java:63) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.TagType$1.load(TagType.java:56) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23287!/:?]
+	... 55 more
+[07Apr2025 13:31:18.939] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1836 | 51 | -16956).
+[07Apr2025 13:31:18.940] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[07Apr2025 13:31:18.941] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[07Apr2025 13:31:18.941] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[07Apr2025 13:31:18.942] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[07Apr2025 13:31:18.942] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[07Apr2025 13:31:18.942] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(1) Nodes and 6(0) Rooms
+[07Apr2025 13:31:18.942] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[07Apr2025 13:31:18.942] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 4(0) Rooms
+[07Apr2025 13:31:18.942] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[07Apr2025 13:31:18.942] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 6(0) Rooms
+[07Apr2025 13:31:21.868] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 13:31:28.180] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 13:31:30.035] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 13:31:30.336] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 13:31:30.496] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 13:32:11.387] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1776, y=77, z=-16472} with deep BlockPos{x=-1776, y=-60, z=-16472}
+[07Apr2025 13:32:13.159] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[07Apr2025 13:32:13.164] [Worker-Main-1/DEBUG] [mixin/]: structureessentials.mixins.json:JigsawPlacementMixin from mod structureessentials->@Inject::essentials$addPieces(Lnet/minecraft/world/level/levelgen/structure/Structure$GenerationContext;Lnet/minecraft/core/Holder;Ljava/util/Optional;ILnet/minecraft/core/BlockPos;ZLjava/util/Optional;ILnet/minecraft/world/level/levelgen/structure/pools/alias/PoolAliasLookup;Lnet/minecraft/world/level/levelgen/structure/pools/DimensionPadding;Lnet/minecraft/world/level/levelgen/structure/templatesystem/LiquidSettings;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[07Apr2025 13:32:18.922] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:18.936] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:18.966] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:18.975] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:18.981] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:18.994] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.001] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.038] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.052] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.059] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.072] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.079] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.086] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.099] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.118] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:19.131] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:32:24.451] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-1768 | 51 | -16834)
+[07Apr2025 13:32:24.460] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-1768 | 51 | -16834)
+[07Apr2025 13:32:24.515] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-1768 | 51 | -16834)
+[07Apr2025 13:32:24.517] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-1768 | 51 | -16834)
+[07Apr2025 13:32:24.732] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1713 | 24 | -16838)
+[07Apr2025 13:32:24.733] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1713 | 24 | -16838)
+[07Apr2025 13:32:24.740] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1713 | 24 | -16838)
+[07Apr2025 13:32:24.740] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1713 | 24 | -16838)
+[07Apr2025 13:32:24.740] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1714 | 24 | -16843)
+[07Apr2025 13:32:24.740] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1714 | 24 | -16843)
+[07Apr2025 13:32:24.740] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1714 | 24 | -16843)
+[07Apr2025 13:32:24.740] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1714 | 24 | -16843)
+[07Apr2025 13:32:25.905] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1709 | 24 | -16831)
+[07Apr2025 13:32:25.905] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1709 | 24 | -16831)
+[07Apr2025 13:32:25.909] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1709 | 24 | -16831)
+[07Apr2025 13:32:25.909] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1709 | 24 | -16831)
+[07Apr2025 13:32:25.909] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1713 | 24 | -16838)
+[07Apr2025 13:32:25.910] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1713 | 24 | -16838)
+[07Apr2025 13:32:25.910] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1713 | 24 | -16838)
+[07Apr2025 13:32:25.910] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1713 | 24 | -16838)
+[07Apr2025 13:32:25.910] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1714 | 24 | -16843)
+[07Apr2025 13:32:25.910] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1714 | 24 | -16843)
+[07Apr2025 13:32:25.910] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1714 | 24 | -16843)
+[07Apr2025 13:32:25.911] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1714 | 24 | -16843)
+[07Apr2025 13:32:25.911] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16842)
+[07Apr2025 13:32:25.913] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16842)
+[07Apr2025 13:32:28.362] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16842)
+[07Apr2025 13:32:28.362] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16842)
+[07Apr2025 13:32:28.744] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1777 | 15 | -16861)
+[07Apr2025 13:32:28.744] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1777 | 15 | -16861)
+[07Apr2025 13:32:28.748] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (-1763 | 51 | -16845)
+[07Apr2025 13:32:28.748] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (-1763 | 51 | -16845)
+[07Apr2025 13:32:28.748] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1763 | 51 | -16848)
+[07Apr2025 13:32:28.749] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1763 | 51 | -16848)
+[07Apr2025 13:32:28.749] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1763 | 51 | -16839)
+[07Apr2025 13:32:28.749] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1763 | 51 | -16839)
+[07Apr2025 13:32:28.749] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-1768 | 51 | -16834)
+[07Apr2025 13:32:28.749] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-1768 | 51 | -16834)
+[07Apr2025 13:32:28.749] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1777 | 15 | -16861)
+[07Apr2025 13:32:28.750] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1777 | 15 | -16861)
+[07Apr2025 13:32:28.887] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (-1758 | 51 | -16845)
+[07Apr2025 13:32:28.888] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (-1758 | 51 | -16845)
+[07Apr2025 13:32:28.888] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1763 | 51 | -16848)
+[07Apr2025 13:32:28.888] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1763 | 51 | -16848)
+[07Apr2025 13:32:28.888] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1763 | 51 | -16839)
+[07Apr2025 13:32:28.889] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1763 | 51 | -16839)
+[07Apr2025 13:32:28.889] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-1768 | 51 | -16834)
+[07Apr2025 13:32:28.889] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-1768 | 51 | -16834)
+[07Apr2025 13:32:28.948] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-1732 | 14 | -16852)
+[07Apr2025 13:32:28.948] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-1732 | 14 | -16852)
+[07Apr2025 13:32:29.084] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1713 | 24 | -16838)
+[07Apr2025 13:32:29.084] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1713 | 24 | -16838)
+[07Apr2025 13:32:29.087] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1713 | 24 | -16838)
+[07Apr2025 13:32:29.087] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1713 | 24 | -16838)
+[07Apr2025 13:32:29.087] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1714 | 24 | -16843)
+[07Apr2025 13:32:29.087] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1714 | 24 | -16843)
+[07Apr2025 13:32:29.087] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1714 | 24 | -16843)
+[07Apr2025 13:32:29.087] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1714 | 24 | -16843)
+[07Apr2025 13:32:29.087] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-1732 | 14 | -16852)
+[07Apr2025 13:32:29.092] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-1732 | 14 | -16852)
+[07Apr2025 13:32:29.178] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1708 | 29 | -16837)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1708 | 29 | -16837)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1708 | 29 | -16837)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1708 | 29 | -16837)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1702 | 24 | -16842)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1702 | 24 | -16842)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-1702 | 24 | -16842)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-1702 | 24 | -16842)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (-1710 | 24 | -16841)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (-1710 | 24 | -16841)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (-1710 | 24 | -16841)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (-1710 | 24 | -16841)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation NONE at (-1702 | 24 | -16837)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation NONE at (-1702 | 24 | -16837)
+[07Apr2025 13:32:29.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/large_wall at (-1702 | 24 | -16837)
+[07Apr2025 13:32:29.180] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/large_wall at (-1702 | 24 | -16837)
+[07Apr2025 13:32:29.180] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1713 | 24 | -16838)
+[07Apr2025 13:32:29.180] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1713 | 24 | -16838)
+[07Apr2025 13:32:29.182] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1713 | 24 | -16838)
+[07Apr2025 13:32:29.182] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1713 | 24 | -16838)
+[07Apr2025 13:32:29.182] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-1709 | 24 | -16848)
+[07Apr2025 13:32:29.182] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-1709 | 24 | -16848)
+[07Apr2025 13:32:29.182] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1709 | 24 | -16848)
+[07Apr2025 13:32:29.182] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1709 | 24 | -16848)
+[07Apr2025 13:32:29.183] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1714 | 24 | -16843)
+[07Apr2025 13:32:29.183] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1714 | 24 | -16843)
+[07Apr2025 13:32:29.183] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1714 | 24 | -16843)
+[07Apr2025 13:32:29.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1714 | 24 | -16843)
+[07Apr2025 13:32:29.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1699 | 15 | -16843)
+[07Apr2025 13:32:29.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1699 | 15 | -16843)
+[07Apr2025 13:32:29.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1700 | 15 | -16848)
+[07Apr2025 13:32:29.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1700 | 15 | -16848)
+[07Apr2025 13:32:29.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16842)
+[07Apr2025 13:32:29.190] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16842)
+[07Apr2025 13:32:30.109] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1699 | 15 | -16843)
+[07Apr2025 13:32:30.109] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1699 | 15 | -16843)
+[07Apr2025 13:32:30.109] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1700 | 15 | -16848)
+[07Apr2025 13:32:30.109] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1700 | 15 | -16848)
+[07Apr2025 13:32:30.109] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16842)
+[07Apr2025 13:32:30.110] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16842)
+[07Apr2025 13:32:31.049] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1782 | 51 | -16866)
+[07Apr2025 13:32:31.051] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1782 | 51 | -16866)
+[07Apr2025 13:32:31.051] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1777 | 15 | -16861)
+[07Apr2025 13:32:31.051] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1777 | 15 | -16861)
+[07Apr2025 13:32:31.055] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1782 | 51 | -16866)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1782 | 51 | -16866)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-1762 | 51 | -16855)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-1762 | 51 | -16855)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-1768 | 51 | -16864)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-1768 | 51 | -16864)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-1762 | 51 | -16853)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-1762 | 51 | -16853)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1773 | 51 | -16864)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1773 | 51 | -16864)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-1766 | 51 | -16868)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-1766 | 51 | -16868)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1771 | 22 | -16855)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1771 | 22 | -16855)
+[07Apr2025 13:32:31.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1772 | 15 | -16866)
+[07Apr2025 13:32:31.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1772 | 15 | -16866)
+[07Apr2025 13:32:31.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1777 | 15 | -16861)
+[07Apr2025 13:32:31.058] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1777 | 15 | -16861)
+[07Apr2025 13:32:31.110] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-1762 | 51 | -16855)
+[07Apr2025 13:32:31.110] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-1762 | 51 | -16855)
+[07Apr2025 13:32:31.110] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-1753 | 51 | -16864)
+[07Apr2025 13:32:31.110] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-1753 | 51 | -16864)
+[07Apr2025 13:32:31.110] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-1751 | 51 | -16864)
+[07Apr2025 13:32:31.111] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-1751 | 51 | -16864)
+[07Apr2025 13:32:31.111] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-1762 | 51 | -16853)
+[07Apr2025 13:32:31.111] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-1762 | 51 | -16853)
+[07Apr2025 13:32:31.111] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-1766 | 51 | -16868)
+[07Apr2025 13:32:31.111] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-1766 | 51 | -16868)
+[07Apr2025 13:32:31.111] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1746 | 51 | -16865)
+[07Apr2025 13:32:31.111] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1746 | 51 | -16865)
+[07Apr2025 13:32:31.171] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1743 | 51 | -16865)
+[07Apr2025 13:32:31.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1743 | 51 | -16865)
+[07Apr2025 13:32:31.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (-1743 | 51 | -16860)
+[07Apr2025 13:32:31.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (-1743 | 51 | -16860)
+[07Apr2025 13:32:31.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1746 | 51 | -16865)
+[07Apr2025 13:32:31.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1746 | 51 | -16865)
+[07Apr2025 13:32:31.172] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1737 | 51 | -16866)
+[07Apr2025 13:32:31.173] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1737 | 51 | -16866)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-1735 | 29 | -16864)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-1735 | 29 | -16864)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1735 | 29 | -16864)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1735 | 29 | -16864)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (-1729 | 24 | -16858)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (-1729 | 24 | -16858)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (-1729 | 24 | -16858)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (-1729 | 24 | -16858)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1736 | 24 | -16858)
+[07Apr2025 13:32:31.174] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1736 | 24 | -16858)
+[07Apr2025 13:32:31.176] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1736 | 24 | -16858)
+[07Apr2025 13:32:31.176] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1736 | 24 | -16858)
+[07Apr2025 13:32:31.176] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_180 at (-1737 | 24 | -16864)
+[07Apr2025 13:32:31.176] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_180 at (-1737 | 24 | -16864)
+[07Apr2025 13:32:31.176] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/large_wall at (-1737 | 24 | -16864)
+[07Apr2025 13:32:31.176] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/large_wall at (-1737 | 24 | -16864)
+[07Apr2025 13:32:31.176] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-1741 | 24 | -16870)
+[07Apr2025 13:32:31.177] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-1741 | 24 | -16870)
+[07Apr2025 13:32:31.177] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1741 | 24 | -16870)
+[07Apr2025 13:32:31.177] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1741 | 24 | -16870)
+[07Apr2025 13:32:31.177] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-1732 | 14 | -16852)
+[07Apr2025 13:32:31.178] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-1732 | 14 | -16852)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (-1729 | 24 | -16858)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (-1729 | 24 | -16858)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (-1729 | 24 | -16858)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (-1729 | 24 | -16858)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-1724 | 24 | -16865)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-1724 | 24 | -16865)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1724 | 24 | -16865)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1724 | 24 | -16865)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-1741 | 24 | -16870)
+[07Apr2025 13:32:31.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-1741 | 24 | -16870)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1741 | 24 | -16870)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1741 | 24 | -16870)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-1714 | 24 | -16864)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-1714 | 24 | -16864)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1714 | 24 | -16864)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1714 | 24 | -16864)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1719 | 24 | -16865)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1719 | 24 | -16865)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1719 | 24 | -16865)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1719 | 24 | -16865)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1713 | 24 | -16869)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1713 | 24 | -16869)
+[07Apr2025 13:32:31.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-1713 | 24 | -16869)
+[07Apr2025 13:32:31.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-1713 | 24 | -16869)
+[07Apr2025 13:32:31.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1728 | 15 | -16866)
+[07Apr2025 13:32:31.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1728 | 15 | -16866)
+[07Apr2025 13:32:31.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1727 | 15 | -16857)
+[07Apr2025 13:32:31.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1727 | 15 | -16857)
+[07Apr2025 13:32:31.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-1732 | 14 | -16852)
+[07Apr2025 13:32:31.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-1732 | 14 | -16852)
+[07Apr2025 13:32:31.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1716 | 15 | -16865)
+[07Apr2025 13:32:31.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1716 | 15 | -16865)
+[07Apr2025 13:32:31.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (-1716 | 15 | -16860)
+[07Apr2025 13:32:31.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (-1716 | 15 | -16860)
+[07Apr2025 13:32:31.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1719 | 15 | -16865)
+[07Apr2025 13:32:31.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1719 | 15 | -16865)
+[07Apr2025 13:32:31.514] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1708 | 24 | -16854)
+[07Apr2025 13:32:31.514] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1708 | 24 | -16854)
+[07Apr2025 13:32:31.514] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1708 | 24 | -16854)
+[07Apr2025 13:32:31.514] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1708 | 24 | -16854)
+[07Apr2025 13:32:31.514] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1709 | 24 | -16853)
+[07Apr2025 13:32:31.514] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1709 | 24 | -16853)
+[07Apr2025 13:32:31.514] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1709 | 24 | -16853)
+[07Apr2025 13:32:31.515] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1709 | 24 | -16853)
+[07Apr2025 13:32:31.515] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1713 | 24 | -16869)
+[07Apr2025 13:32:31.522] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1713 | 24 | -16869)
+[07Apr2025 13:32:31.523] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-1713 | 24 | -16869)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-1713 | 24 | -16869)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1719 | 15 | -16865)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1719 | 15 | -16865)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1699 | 15 | -16854)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1699 | 15 | -16854)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-1705 | 15 | -16864)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-1705 | 15 | -16864)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-1700 | 15 | -16853)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-1700 | 15 | -16853)
+[07Apr2025 13:32:31.525] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1710 | 15 | -16865)
+[07Apr2025 13:32:31.526] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1710 | 15 | -16865)
+[07Apr2025 13:32:31.526] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
+[07Apr2025 13:32:31.533] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
+[07Apr2025 13:32:32.374] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1782 | 51 | -16866)
+[07Apr2025 13:32:32.374] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1782 | 51 | -16866)
+[07Apr2025 13:32:32.374] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (-1777 | 15 | -16888)
+[07Apr2025 13:32:32.374] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (-1777 | 15 | -16888)
+[07Apr2025 13:32:32.551] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1699 | 15 | -16854)
+[07Apr2025 13:32:32.551] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1699 | 15 | -16854)
+[07Apr2025 13:32:32.551] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-1700 | 15 | -16853)
+[07Apr2025 13:32:32.551] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-1700 | 15 | -16853)
+[07Apr2025 13:32:32.551] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
+[07Apr2025 13:32:32.552] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 60 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 60 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 61 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 61 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 62 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 62 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 63 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 63 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 64 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 64 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 65 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 65 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 66 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 66 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 67 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 67 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 68 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 68 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 69 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 69 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 70 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 70 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 71 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 71 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 72 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 72 | -16882)
+[07Apr2025 13:32:32.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-1766 | 73 | -16886)
+[07Apr2025 13:32:32.832] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-1766 | 73 | -16886)
+[07Apr2025 13:32:32.832] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1782 | 51 | -16866)
+[07Apr2025 13:32:32.832] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1782 | 51 | -16866)
+[07Apr2025 13:32:32.832] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1764 | 51 | -16884)
+[07Apr2025 13:32:32.832] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1764 | 51 | -16884)
+[07Apr2025 13:32:32.832] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-1762 | 51 | -16870)
+[07Apr2025 13:32:32.833] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-1762 | 51 | -16870)
+[07Apr2025 13:32:32.833] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1762 | 51 | -16875)
+[07Apr2025 13:32:32.833] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1762 | 51 | -16875)
+[07Apr2025 13:32:32.833] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-1766 | 51 | -16868)
+[07Apr2025 13:32:32.833] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-1766 | 51 | -16868)
+[07Apr2025 13:32:32.833] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (-1771 | 22 | -16882)
+[07Apr2025 13:32:32.833] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (-1771 | 22 | -16882)
+[07Apr2025 13:32:32.833] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1772 | 15 | -16871)
+[07Apr2025 13:32:32.834] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1772 | 15 | -16871)
+[07Apr2025 13:32:32.834] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (-1777 | 15 | -16888)
+[07Apr2025 13:32:32.835] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (-1777 | 15 | -16888)
+[07Apr2025 13:32:32.835] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1772 | 15 | -16866)
+[07Apr2025 13:32:32.835] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1772 | 15 | -16866)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 60 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 60 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 61 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 61 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 62 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 62 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 63 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 63 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 64 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 64 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 65 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 65 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 66 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 66 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 67 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 67 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 68 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 68 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 69 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1762 | 69 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 70 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1762 | 70 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 71 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1762 | 71 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 72 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1762 | 72 | -16882)
+[07Apr2025 13:32:32.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-1766 | 73 | -16886)
+[07Apr2025 13:32:32.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-1766 | 73 | -16886)
+[07Apr2025 13:32:32.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1764 | 51 | -16884)
+[07Apr2025 13:32:32.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1764 | 51 | -16884)
+[07Apr2025 13:32:32.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-1762 | 51 | -16870)
+[07Apr2025 13:32:32.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-1762 | 51 | -16870)
+[07Apr2025 13:32:32.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1762 | 51 | -16875)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1762 | 51 | -16875)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-1766 | 51 | -16868)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-1766 | 51 | -16868)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation CLOCKWISE_180 at (-1752 | 56 | -16881)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation CLOCKWISE_180 at (-1752 | 56 | -16881)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (-1752 | 51 | -16877)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (-1752 | 51 | -16877)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_180 at (-1755 | 51 | -16882)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_180 at (-1755 | 51 | -16882)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-1748 | 51 | -16882)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-1748 | 51 | -16882)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation CLOCKWISE_180 at (-1753 | 51 | -16882)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation CLOCKWISE_180 at (-1753 | 51 | -16882)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1746 | 51 | -16883)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1746 | 51 | -16883)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1746 | 51 | -16865)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1746 | 51 | -16865)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (-1745 | 15 | -16881)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (-1745 | 15 | -16881)
+[07Apr2025 13:32:32.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1745 | 15 | -16884)
+[07Apr2025 13:32:32.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1745 | 15 | -16884)
+[07Apr2025 13:32:32.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1746 | 15 | -16875)
+[07Apr2025 13:32:32.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1746 | 15 | -16875)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1746 | 51 | -16883)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1746 | 51 | -16883)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1743 | 51 | -16865)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1743 | 51 | -16865)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1746 | 51 | -16865)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1746 | 51 | -16865)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1737 | 51 | -16866)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1737 | 51 | -16866)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1737 | 51 | -16882)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1737 | 51 | -16882)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-1732 | 51 | -16888)
+[07Apr2025 13:32:33.013] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-1732 | 51 | -16888)
+[07Apr2025 13:32:33.014] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1730 | 24 | -16870)
+[07Apr2025 13:32:33.015] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1730 | 24 | -16870)
+[07Apr2025 13:32:33.015] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-1730 | 24 | -16870)
+[07Apr2025 13:32:33.016] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-1730 | 24 | -16870)
+[07Apr2025 13:32:33.016] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-1736 | 24 | -16869)
+[07Apr2025 13:32:33.016] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-1736 | 24 | -16869)
+[07Apr2025 13:32:33.018] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1736 | 24 | -16869)
+[07Apr2025 13:32:33.018] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-1736 | 24 | -16869)
+[07Apr2025 13:32:33.018] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-1741 | 24 | -16870)
+[07Apr2025 13:32:33.018] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-1741 | 24 | -16870)
+[07Apr2025 13:32:33.018] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1741 | 24 | -16870)
+[07Apr2025 13:32:33.019] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1741 | 24 | -16870)
+[07Apr2025 13:32:33.019] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (-1740 | 15 | -16881)
+[07Apr2025 13:32:33.020] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (-1740 | 15 | -16881)
+[07Apr2025 13:32:33.020] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (-1745 | 15 | -16881)
+[07Apr2025 13:32:33.020] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (-1745 | 15 | -16881)
+[07Apr2025 13:32:33.020] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1745 | 15 | -16884)
+[07Apr2025 13:32:33.020] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1745 | 15 | -16884)
+[07Apr2025 13:32:33.020] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1746 | 15 | -16875)
+[07Apr2025 13:32:33.023] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1746 | 15 | -16875)
+[07Apr2025 13:32:33.023] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-1731 | 15 | -16887)
+[07Apr2025 13:32:33.023] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-1731 | 15 | -16887)
+[07Apr2025 13:32:33.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-1732 | 51 | -16888)
+[07Apr2025 13:32:33.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-1732 | 51 | -16888)
+[07Apr2025 13:32:33.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1730 | 24 | -16870)
+[07Apr2025 13:32:33.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1730 | 24 | -16870)
+[07Apr2025 13:32:33.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-1730 | 24 | -16870)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-1730 | 24 | -16870)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-1724 | 24 | -16865)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-1724 | 24 | -16865)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1724 | 24 | -16865)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1724 | 24 | -16865)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-1741 | 24 | -16870)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-1741 | 24 | -16870)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1741 | 24 | -16870)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1741 | 24 | -16870)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1719 | 24 | -16865)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1719 | 24 | -16865)
+[07Apr2025 13:32:33.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1719 | 24 | -16865)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1719 | 24 | -16865)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1713 | 24 | -16869)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1713 | 24 | -16869)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-1713 | 24 | -16869)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-1713 | 24 | -16869)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1726 | 15 | -16872)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1726 | 15 | -16872)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1727 | 15 | -16871)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1727 | 15 | -16871)
+[07Apr2025 13:32:33.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-1731 | 15 | -16887)
+[07Apr2025 13:32:33.285] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-1731 | 15 | -16887)
+[07Apr2025 13:32:33.285] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1728 | 15 | -16866)
+[07Apr2025 13:32:33.285] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1728 | 15 | -16866)
+[07Apr2025 13:32:33.285] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1716 | 15 | -16865)
+[07Apr2025 13:32:33.285] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1716 | 15 | -16865)
+[07Apr2025 13:32:33.285] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1719 | 15 | -16865)
+[07Apr2025 13:32:33.285] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1719 | 15 | -16865)
+[07Apr2025 13:32:33.341] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1709 | 24 | -16880)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1709 | 24 | -16880)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1709 | 24 | -16880)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1709 | 24 | -16880)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1708 | 24 | -16870)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1708 | 24 | -16870)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1708 | 24 | -16870)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1708 | 24 | -16870)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1709 | 24 | -16875)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1709 | 24 | -16875)
+[07Apr2025 13:32:33.342] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1709 | 24 | -16875)
+[07Apr2025 13:32:33.343] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1709 | 24 | -16875)
+[07Apr2025 13:32:33.343] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1713 | 24 | -16869)
+[07Apr2025 13:32:33.343] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1713 | 24 | -16869)
+[07Apr2025 13:32:33.343] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-1713 | 24 | -16869)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-1713 | 24 | -16869)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1719 | 15 | -16865)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1719 | 15 | -16865)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1700 | 15 | -16880)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1700 | 15 | -16880)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1699 | 15 | -16870)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1699 | 15 | -16870)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1700 | 15 | -16875)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1700 | 15 | -16875)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1710 | 15 | -16865)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1710 | 15 | -16865)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
+[07Apr2025 13:32:33.344] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
+[07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1700 | 15 | -16880)
+[07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1700 | 15 | -16880)
+[07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1699 | 15 | -16870)
+[07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1699 | 15 | -16870)
+[07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1700 | 15 | -16875)
+[07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1700 | 15 | -16875)
+[07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
+[07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
+[07Apr2025 13:32:44.394] [Worker-Main-3/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1514, y=76, z=-16704} with deep BlockPos{x=-1514, y=-62, z=-16704}
