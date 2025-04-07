@@ -12406,9 +12406,27 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/unobtainium_dust_from_ore_crushing": {
+    "criteria": {
+      "has_item": "2025-04-07 03:08:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/hopper_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-07 01:14:52 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-04-07 03:08:34 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/raw_unobtainium_block": {
+    "criteria": {
+      "has_raw_unobtainium": "2025-04-07 03:08:34 +0000"
     },
     "done": true
   },
@@ -12421,6 +12439,12 @@
   "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
     "criteria": {
       "has_storage_stack_upgrade": "2025-04-07 01:33:42 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_ingot_from_raw_smelting": {
+    "criteria": {
+      "has_item": "2025-04-07 03:08:34 +0000"
     },
     "done": true
   },

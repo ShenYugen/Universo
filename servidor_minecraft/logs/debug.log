@@ -16524,3 +16524,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [07Apr2025 03:00:21.320] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 7(0) Rooms
 [07Apr2025 03:00:25.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7058ms or 141 ticks behind
 [07Apr2025 03:02:26.183] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 03:03:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2289.500000, 28.500000, 1216.500000]
+[07Apr2025 03:04:02.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 03:04:03.858] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-2332 | 89 | 1252).
+[07Apr2025 03:04:03.858] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[07Apr2025 03:04:03.859] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 6(0) Rooms
+[07Apr2025 03:04:03.859] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[07Apr2025 03:04:03.859] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 10(0) Nodes and 5(0) Rooms
+[07Apr2025 03:04:03.859] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[07Apr2025 03:04:03.859] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 7(0) Rooms
+[07Apr2025 03:04:03.859] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[07Apr2025 03:04:03.859] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 12(0) Nodes and 7(0) Rooms
+[07Apr2025 03:04:03.859] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[07Apr2025 03:04:03.859] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 7(0) Rooms
+[07Apr2025 03:04:06.893] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2271, y=166, z=1228} with deep BlockPos{x=-2271, y=-60, z=1228}
+[07Apr2025 03:04:06.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4328ms or 86 ticks behind
+[07Apr2025 03:07:30.471] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 03:08:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2289.500000, 28.500000, 1216.500000]
+[07Apr2025 03:09:38.943] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 03:09:38.947] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 03:09:41.057] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 03:09:41.059] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 03:09:41.059] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 03:09:41.060] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 03:09:47.138] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Apr2025 03:10:56.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2270, y=69, z=882} BlockPos{x=-2269, y=70, z=882}
+[07Apr2025 03:10:57.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2270, y=69, z=882} BlockPos{x=-2269, y=70, z=882}
+[07Apr2025 03:12:30.483] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
