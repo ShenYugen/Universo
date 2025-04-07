@@ -1441,3 +1441,9 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [07Apr2025 13:32:19.099] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
 [07Apr2025 13:32:19.118] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
 [07Apr2025 13:32:19.131] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[07Apr2025 13:36:15.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/9762, l='ServerLevel[world]', x=-1978.50, y=82.00, z=-16122.24] died, message: 'Leatherworker was slain by Zombie'
+[07Apr2025 13:36:28.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2483.500000, 82.500000, -16396.500000]
+[07Apr2025 13:37:10.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 13:37:29.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2483.500000, 82.500000, -16396.500000]
+[07Apr2025 13:40:26.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Starbuncle['Alo'ra'/11573, l='ServerLevel[world]', x=-1886.28, y=81.00, z=-16026.51] died: Alo'ra was slain by ShenYugen
+[07Apr2025 13:42:18.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/13066, l='ServerLevel[world]', x=-2458.47, y=80.00, z=-16211.28] died, message: 'Leatherworker was pricked to death'

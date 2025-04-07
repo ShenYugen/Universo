@@ -17157,3 +17157,13 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
 [07Apr2025 13:32:33.633] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-1704 | 15 | -16869)
 [07Apr2025 13:32:44.394] [Worker-Main-3/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1514, y=76, z=-16704} with deep BlockPos{x=-1514, y=-62, z=-16704}
+[07Apr2025 13:33:21.896] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 13:36:15.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/9762, l='ServerLevel[world]', x=-1978.50, y=82.00, z=-16122.24] died, message: 'Leatherworker was slain by Zombie'
+[07Apr2025 13:36:28.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2483.500000, 82.500000, -16396.500000]
+[07Apr2025 13:37:02.486] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$13ea268625e549639cd51c2dda8fc7b3 (originally net/caffeinemc/mods/lithium/mixin/ai/poi/SectionStorageMixin$1)
+[07Apr2025 13:37:10.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 13:37:29.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2483.500000, 82.500000, -16396.500000]
+[07Apr2025 13:38:21.895] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[07Apr2025 13:40:26.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Starbuncle['Alo'ra'/11573, l='ServerLevel[world]', x=-1886.28, y=81.00, z=-16026.51] died: Alo'ra was slain by ShenYugen
+[07Apr2025 13:41:01.021] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2348, y=70, z=-15926} with deep BlockPos{x=-2348, y=-60, z=-15926}
+[07Apr2025 13:42:18.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/13066, l='ServerLevel[world]', x=-2458.47, y=80.00, z=-16211.28] died, message: 'Leatherworker was pricked to death'
