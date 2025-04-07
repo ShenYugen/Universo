@@ -12576,6 +12576,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-04-07 14:15:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-04-07 14:06:49 +0000"
@@ -12591,6 +12597,12 @@
   "apothic_enchanting:endshelf": {
     "criteria": {
       "endshelf": "2025-04-07 14:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-07 14:15:31 +0000"
     },
     "done": true
   },
@@ -12663,6 +12675,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-04-07 14:09:22 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-04-07 14:16:17 +0000"
     },
     "done": true
   },

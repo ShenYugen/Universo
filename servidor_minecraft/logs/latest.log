@@ -1467,3 +1467,9 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [07Apr2025 14:07:32.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
 [07Apr2025 14:07:34.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved wrongly!
 [07Apr2025 14:09:22.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The City at the End of the Game]
+[07Apr2025 14:13:48.344] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c1bfdb16: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Apr2025 14:13:50.503] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c1bfdb16: RandomSpreadSearchWorker succeeded with 2584 radius, 16 samples
+[07Apr2025 14:15:31.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Sky's the Limit]
+[07Apr2025 14:16:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [The Final Bookshelf]
+[07Apr2025 14:17:56.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 14:18:00.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4115ms or 82 ticks behind
