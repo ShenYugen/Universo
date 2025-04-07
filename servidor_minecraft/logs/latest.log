@@ -1457,3 +1457,13 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [07Apr2025 14:03:26.454] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [07Apr2025 14:03:26.455] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [07Apr2025 14:03:26.455] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Apr2025 14:04:49.336] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c1bfdb16: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Apr2025 14:04:49.387] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c1bfdb16: RandomSpreadSearchWorker succeeded with 246 radius, 2 samples
+[07Apr2025 14:05:40.986] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c1bfdb16: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Apr2025 14:05:41.038] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c1bfdb16: RandomSpreadSearchWorker succeeded with 198 radius, 4 samples
+[07Apr2025 14:07:04.665] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c1bfdb16: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Apr2025 14:07:04.755] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c1bfdb16: RandomSpreadSearchWorker succeeded with 1034 radius, 6 samples
+[07Apr2025 14:07:29.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -6.631149659852781,3.360000364375736,8.382909395345905
+[07Apr2025 14:07:32.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[07Apr2025 14:07:34.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved wrongly!
+[07Apr2025 14:09:22.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The City at the End of the Game]
