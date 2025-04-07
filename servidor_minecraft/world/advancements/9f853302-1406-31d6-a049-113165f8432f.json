@@ -12365,27 +12365,21 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
+  "justdirethings:recipes/misc/itemcollector_nbtclear": {
     "criteria": {
-      "citadel": "2025-04-07 02:41:56 +0000"
+      "has_itemcollector": "2025-04-07 01:08:00 +0000"
     },
     "done": true
   },
-  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
     "criteria": {
-      "comb_cutter_tool": "2025-04-07 03:50:51 +0000"
+      "has_the_recipe": "2025-04-07 01:14:52 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_4_from_storage_stack_upgrade_tier_5": {
+  "sophisticatedstorage:recipes/misc/advanced_hopper_upgrade": {
     "criteria": {
-      "has_storage_stack_upgrade": "2025-04-07 01:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:oritech/foundry": {
-    "criteria": {
-      "got_foundry": "2025-04-07 01:37:09 +0000"
+      "has_feeding_upgrade": "2025-04-07 01:14:52 +0000"
     },
     "done": true
   },
@@ -12395,27 +12389,51 @@
     },
     "done": true
   },
-  "justdirethings:recipes/misc/itemcollector_nbtclear": {
-    "criteria": {
-      "has_itemcollector": "2025-04-07 01:08:00 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / c:nuggets/vibranium]_nugget": "2025-04-07 03:24:20 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/double_netherite_chest": {
     "criteria": {
       "has_diamond_chest": "2025-04-07 01:27:58 +0000"
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
     "criteria": {
-      "netherite_armor": "2025-04-07 03:50:55 +0000"
+      "has_diamond_chest": "2025-04-07 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-04-07 01:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/foundry": {
+    "criteria": {
+      "got_foundry": "2025-04-07 01:37:09 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/foundry": {
+    "criteria": {
+      "has_foundry_block": "2025-04-07 01:37:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_4_from_storage_stack_upgrade_tier_5": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-04-07 01:45:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_5": "2025-04-07 01:45:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-07 02:41:56 +0000"
     },
     "done": true
   },
@@ -12431,12 +12449,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
-    "criteria": {
-      "has_the_recipe": "2025-04-07 01:14:52 +0000"
-    },
-    "done": true
-  },
   "allthemodium:recipes/misc/unobtainium_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-04-07 03:08:34 +0000"
@@ -12449,39 +12461,111 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_omega_tier": {
-    "criteria": {
-      "has_stack_upgrade_tier_5": "2025-04-07 01:45:53 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
-    "criteria": {
-      "has_storage_stack_upgrade": "2025-04-07 01:33:42 +0000"
-    },
-    "done": true
-  },
   "allthemodium:recipes/misc/unobtainium_ingot_from_raw_smelting": {
     "criteria": {
       "has_item": "2025-04-07 03:08:34 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/advanced_hopper_upgrade": {
+  "allthemodium:recipes/misc/vibranium_ingot": {
     "criteria": {
-      "has_feeding_upgrade": "2025-04-07 01:14:52 +0000"
+      "has_TagKey[minecraft:item / c:nuggets/vibranium]_nugget": "2025-04-07 03:24:20 +0000"
     },
     "done": true
   },
-  "oritech:recipes/misc/crafting/foundry": {
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
     "criteria": {
-      "has_foundry_block": "2025-04-07 01:37:09 +0000"
+      "comb_cutter_tool": "2025-04-07 03:50:51 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/netherite_chest": {
+  "minecraft:nether/netherite_armor": {
     "criteria": {
-      "has_diamond_chest": "2025-04-07 01:27:58 +0000"
+      "netherite_armor": "2025-04-07 03:50:55 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_ingot_from_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-04-07 03:53:15 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-04-07 03:53:15 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/unobtainium_boots_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/unobtainium_ingot": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/unobtainium]_ingot": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/unobtainium_hat_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/unobtainium_ingot": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/unobtainium]_ingot": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/unobtainium_robes_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/unobtainium_ingot": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/unobtainium_spell_book_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/unobtainium_ingot": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/unobtainium_leggings_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/unobtainium_ingot": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/unobtainium]_ingot": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/unobtainium]_ingot": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/core3alt": {
+    "criteria": {
+      "has_machine_core_3": "2025-04-07 12:07:01 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/core3": {
+    "criteria": {
+      "has_machine_core_3": "2025-04-07 12:07:01 +0000"
     },
     "done": true
   },
