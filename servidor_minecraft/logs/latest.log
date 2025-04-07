@@ -1387,3 +1387,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [07Apr2025 01:25:07.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 332.500000, 253.500000, -15540.500000]
 [07Apr2025 01:37:09.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Melt Down]
 [07Apr2025 01:50:00.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 01:53:04.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 477.500000, 79.500000, -16013.500000]
+[07Apr2025 01:53:55.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[07Apr2025 02:02:02.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
