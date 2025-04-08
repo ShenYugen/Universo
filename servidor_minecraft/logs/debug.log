@@ -16398,3 +16398,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [08Apr2025 22:21:12.576] [Server thread/INFO] [owo/]: Receiving client config
 [08Apr2025 22:26:06.485] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [08Apr2025 22:26:35.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[08Apr2025 22:31:06.431] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Apr2025 22:36:06.416] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Apr2025 22:39:07.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Honey I Shrunk the Starbuncle]
