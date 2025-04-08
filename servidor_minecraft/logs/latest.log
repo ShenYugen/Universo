@@ -1894,3 +1894,10 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [08Apr2025 23:09:57.613] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [08Apr2025 23:09:57.665] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [08Apr2025 23:09:57.666] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Apr2025 23:11:22.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 1224.500000, 71.500000, 184.500000]
+[08Apr2025 23:12:21.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/130253, l='ServerLevel[world]', x=1032.70, y=35.00, z=679.93] died: Piglin Paratrooper was doomed to fall
+[08Apr2025 23:15:51.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Withering Heights]
+[08Apr2025 23:16:48.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Magic Writing]
+[08Apr2025 23:16:48.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Back to childhood]
+[08Apr2025 23:16:48.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Not even afraid of death]
+[08Apr2025 23:16:55.707] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
