@@ -16408,3 +16408,240 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [08Apr2025 22:40:35.517] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
 [08Apr2025 22:41:06.416] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [08Apr2025 22:46:06.411] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Apr2025 22:51:06.413] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Apr2025 22:53:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 126.500000, 98.500000, 1090.500000]
+[08Apr2025 22:54:16.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/80193, l='ServerLevel[world]', x=119.35, y=-20.00, z=1126.38] died: Toxic Slime was killed
+[08Apr2025 22:55:49.356] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/80384, l='ServerLevel[world]', x=100.48, y=-20.00, z=1032.74] died: Toxic Slime was killed
+[08Apr2025 22:56:03.642] [Worker-Main-3/DEBUG] [mixin/]: Mixing NoiseChunkMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[08Apr2025 22:56:03.643] [Worker-Main-3/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:03.644] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$yungsapi_dontFillMarkedPositions$0()Lcom/yungnickyoung/minecraft/yungsapi/world/structure/terrainadaptation/aquiferoverride/AquiferOverrideMask; to md957c7b$yungsapi$lambda$yungsapi_dontFillMarkedPositions$0$0 in yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi
+[08Apr2025 22:56:03.660] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.NoiseChunkAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[08Apr2025 22:56:03.660] [Worker-Main-3/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.NoiseChunkAccessor from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:03.661] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[08Apr2025 22:56:03.661] [Worker-Main-3/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:world.NoiseChunkAccessor from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:03.661] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[08Apr2025 22:56:03.662] [Worker-Main-3/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:world.NoiseChunkMixin from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:03.663] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to md957c7b$the_bumblezone$lambda$injectWrapNew$1$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin from mod the_bumblezone
+[08Apr2025 22:56:03.663] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to md957c7b$the_bumblezone$lambda$injectWrapNew$0$2 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin from mod the_bumblezone
+[08Apr2025 22:56:03.668] [Worker-Main-3/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from fabric-biome-api-v1.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[08Apr2025 22:56:03.668] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:03.694] [Worker-Main-3/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi->@Inject::yungsapi_attachNoiseChunkToBeardifier(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[08Apr2025 22:56:03.694] [Worker-Main-3/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi->@Inject::yungsapi_attachNoiseChunkToBeardifier(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[08Apr2025 22:56:03.694] [Worker-Main-3/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi->@Inject::yungsapi_attachNoiseChunkToBeardifier(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[08Apr2025 22:56:03.695] [Worker-Main-3/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin from mod yungsapi->@Inject::yungsapi_dontFillMarkedPositions(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[08Apr2025 22:56:03.695] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[08Apr2025 22:56:03.695] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[08Apr2025 22:56:03.695] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[08Apr2025 22:56:03.696] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::createMultiNoiseSampler(Lnet/minecraft/world/level/levelgen/NoiseRouter;Ljava/util/List;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[08Apr2025 22:56:03.738] [Worker-Main-3/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[08Apr2025 22:56:03.938] [Worker-Main-3/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[08Apr2025 22:56:03.939] [Worker-Main-3/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:04.905] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Apr2025 22:56:04.905] [Worker-Main-1/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:04.911] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Apr2025 22:56:04.912] [Worker-Main-1/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:04.912] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.neoforge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Apr2025 22:56:04.912] [Worker-Main-1/DEBUG] [mixin/]: lithostitched.neoforge.mixins.json:common.BeardifierMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:04.915] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Apr2025 22:56:04.915] [Worker-Main-1/DEBUG] [mixin/]: cataclysm.mixins.json:accessor.BeardifierAccessor from mod cataclysm: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:56:04.923] [Worker-Main-1/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_supportCustomTerrainAdaptations(Lnet/minecraft/world/level/StructureManager;Lnet/minecraft/world/level/ChunkPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[08Apr2025 22:56:04.923] [Worker-Main-1/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_calculateDensity(Lnet/minecraft/world/level/levelgen/DensityFunction$FunctionContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[08Apr2025 22:56:04.924] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[08Apr2025 22:56:04.924] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[08Apr2025 22:56:05.806] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[08Apr2025 22:56:05.808] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[08Apr2025 22:56:05.810] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[08Apr2025 22:56:06.463] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Apr2025 22:56:29.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Magic Siphoner]
+[08Apr2025 22:56:54.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/80358, l='ServerLevel[world]', x=228.59, y=46.00, z=986.59] died: Ghast Sentry was shot by ShenYugen
+[08Apr2025 22:57:56.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94814, l='ServerLevel[world]', x=108.79, y=-20.00, z=879.99] died: Toxic Slime was killed
+[08Apr2025 22:58:30.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94817, l='ServerLevel[world]', x=99.41, y=-20.00, z=1032.21] died: Toxic Slime was killed
+[08Apr2025 22:58:34.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94967, l='ServerLevel[world]', x=52.64, y=-20.00, z=1013.95] died: Toxic Slime was killed
+[08Apr2025 22:59:08.083] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2787875b: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[08Apr2025 22:59:15.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
+[08Apr2025 22:59:19.031] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.056] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.057] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.057] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.076] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.077] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.077] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.077] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.592] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[08Apr2025 22:59:19.593] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.593] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.593] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.594] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.594] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.597] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.599] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.600] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.600] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.600] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.600] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.601] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.602] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.614] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.614] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.617] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.617] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.618] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.618] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.624] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.626] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.627] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.628] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.648] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.654] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.674] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.682] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.695] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.695] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.696] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.727] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.727] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.731] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.731] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.735] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.735] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.736] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.746] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.746] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.750] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.751] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.756] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.757] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.759] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.777] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.777] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.782] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.788] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.789] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.791] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.802] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.802] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.803] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.803] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.806] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.806] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.809] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.809] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.809] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.810] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.810] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.810] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.810] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.814] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.814] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.829] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.829] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.829] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.844] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.845] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.847] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.848] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.848] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.863] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[08Apr2025 22:59:19.863] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.864] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.864] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.869] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.873] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.873] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.876] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.896] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.897] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.909] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.909] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.910] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.910] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.910] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.910] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.910] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.928] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.929] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.929] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.932] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.932] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.936] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.939] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.939] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.939] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.940] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.943] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.946] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.950] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.950] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:19.950] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[08Apr2025 22:59:32.146] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2787875b: RandomSpreadSearchWorker failed with 10000 radius, 2216 samples
+[08Apr2025 22:59:32.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[08Apr2025 22:59:41.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/98407, l='ServerLevel[world]', x=-38.89, y=32.46, z=1089.30] died: Toxic Slime was shot by ShenYugen
+[08Apr2025 22:59:55.591] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2787875b: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[08Apr2025 22:59:55.620] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2787875b: RandomSpreadSearchWorker succeeded with 385 radius, 1 samples
+[08Apr2025 23:00:00.677] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/lumber_c -> incendium:castle/decor/lumber_c
+[08Apr2025 23:00:00.901] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.902] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.902] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.903] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.903] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.903] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.925] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/house_1x1 -> incendium:castle/roof_1x1 -> incendium:castle/roof_1x1
+[08Apr2025 23:00:00.925] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.926] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.926] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.926] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.927] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.927] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.927] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.928] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.928] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.928] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.928] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.929] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.929] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.981] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/farms -> incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.983] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.984] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.984] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.984] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.985] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.985] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.985] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.986] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.986] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.986] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.986] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.987] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.987] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.987] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.988] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.988] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.988] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.989] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.989] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/tables -> incendium:castle/decor/tables
+[08Apr2025 23:00:00.990] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/house_1x1 -> incendium:castle/roof_1x1 -> incendium:castle/roof_1x1
+[08Apr2025 23:00:01.050] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/strider/pools -> incendium:castle/strider/pools
+[08Apr2025 23:00:01.050] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/strider/pools -> incendium:castle/strider/pools
+[08Apr2025 23:00:01.051] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/strider/pools -> incendium:castle/strider/pools
+[08Apr2025 23:00:01.052] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/strider/pools -> incendium:castle/strider/pools
+[08Apr2025 23:00:01.213] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/brewing/farms_small -> incendium:castle/decor/brewing/farms -> incendium:castle/decor/brewing/farms
+[08Apr2025 23:00:01.229] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:castle/decor/brewing/farms_small_w -> incendium:castle/decor/brewing/farms_small_w
+[08Apr2025 23:00:03.666] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:03.668] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:05.487] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:05.488] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:07.905] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:07.987] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:07.988] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:08.176] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:08.959] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:08.976] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:08.977] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:09.695] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:09.696] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:09.893] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:09.894] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:09.895] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:00:12.458] [Worker-Main-3/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Failed to parse either. First: Failed to parse either. First: Not a string: null; Second: Not a json array: null; Second: Not a JSON object: null missed input: {"minecraft:lore":['{"translate":"A nether-oriented excavator","color":"#880012","italic":true}',"",'{"translate":"Incendium","color":"#FF8000","italic":true}']}'
+[08Apr2025 23:00:15.911] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94253, l='ServerLevel[world]', x=374.59, y=-20.00, z=974.33] died: Toxic Slime was killed
+[08Apr2025 23:00:25.941] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/102392, l='ServerLevel[world]', x=-348.12, y=36.44, z=907.85] as it would cause deadlock
