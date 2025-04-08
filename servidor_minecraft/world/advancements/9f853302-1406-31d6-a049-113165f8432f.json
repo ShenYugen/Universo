@@ -3902,6 +3902,7 @@
       "minecraft:spider": "2025-02-22 19:42:25 +0000",
       "minecraft:piglin_brute": "2025-02-22 22:27:27 +0000",
       "minecraft:creeper": "2025-02-22 20:17:54 +0000",
+      "minecraft:wither": "2025-04-08 23:16:48 +0000",
       "minecraft:slime": "2025-04-01 18:25:08 +0000",
       "minecraft:evoker": "2025-04-07 03:43:25 +0000",
       "minecraft:phantom": "2025-03-16 18:07:21 +0000",
@@ -4902,6 +4903,7 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
+      "kill_wither": "2025-04-08 23:16:48 +0000",
       "rare_feet": "2025-02-22 20:46:58 +0000"
     },
     "done": false
@@ -12861,73 +12863,73 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 23:16:11 +0000"
+      "log_spam_fixer": "2025-04-08 23:26:15 +0000"
     },
     "done": false
   },
@@ -12985,6 +12987,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-04-08 23:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-08 23:17:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_glazed_terracotta": {
     "criteria": {
       "has_green_terracotta": "2025-04-08 22:56:19 +0000"
@@ -13000,6 +13014,18 @@
   "justdirethings:recipes/misc/bow_eclipsealloy-potionarrow": {
     "criteria": {
       "has_the_recipe": "2025-04-08 22:48:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-08 23:16:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-04-08 23:16:48 +0000"
     },
     "done": true
   },
