@@ -12860,79 +12860,85 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 22:36:06 +0000"
+      "log_spam_fixer": "2025-04-08 22:46:06 +0000"
     },
     "done": false
   },
   "justdirethings:recipes/misc/upgrade_homing": {
     "criteria": {
       "has_the_recipe": "2025-04-08 22:31:30 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:shrunk_starbuncle": {
+    "criteria": {
+      "shrunk_starbuncle": "2025-04-08 22:39:07 +0000"
     },
     "done": true
   },

@@ -16401,3 +16401,10 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [08Apr2025 22:31:06.431] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [08Apr2025 22:36:06.416] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [08Apr2025 22:39:07.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Honey I Shrunk the Starbuncle]
+[08Apr2025 22:40:35.511] [Server thread/DEBUG] [mixin/]: Mixing StandardSpellValidatorMixin from ars_controle.mixins.json into com.hollingsworth.arsnouveau.common.spell.validation.StandardSpellValidator
+[08Apr2025 22:40:35.512] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[08Apr2025 22:40:35.516] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[08Apr2025 22:40:35.517] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[08Apr2025 22:40:35.517] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[08Apr2025 22:41:06.416] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Apr2025 22:46:06.411] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
