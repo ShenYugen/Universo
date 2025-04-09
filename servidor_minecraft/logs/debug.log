@@ -17032,3 +17032,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [08Apr2025 23:56:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Increased Energy Density!]
 [08Apr2025 23:56:39.842] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [09Apr2025 00:01:39.820] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Apr2025 00:03:50.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Cross Dimensional Teleportation!]
+[09Apr2025 00:06:39.820] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Apr2025 00:10:10.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Gearing Up!]
+[09Apr2025 00:10:39.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 302.500000, 118.500000, -15416.500000]
+[09Apr2025 00:11:39.820] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
