@@ -1913,3 +1913,13 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [08Apr2025 23:48:14.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2289.500000, 28.500000, 1216.500000]
 [08Apr2025 23:50:55.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
 [08Apr2025 23:51:01.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6104ms or 122 ticks behind
+[08Apr2025 23:52:07.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Pockets!]
+[08Apr2025 23:52:28.264] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:52:28.266] [Worker-Main-2/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: Failed to get element cyclic:reach missed input: {"cyclic:reach":1} missed input: {"minecraft:stored_enchantments":{levels:{"cyclic:reach":1}}}
+[08Apr2025 23:52:28.304] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:52:28.317] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[08Apr2025 23:52:28.318] [Worker-Main-2/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: Failed to get element cyclic:reach missed input: {"cyclic:reach":1} missed input: {"minecraft:stored_enchantments":{levels:{"cyclic:reach":1}}}
+[08Apr2025 23:52:32.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17789ms or 355 ticks behind
+[08Apr2025 23:54:13.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Energy Storage!]
+[08Apr2025 23:56:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Enhancing Metal!]
+[08Apr2025 23:56:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Increased Energy Density!]
