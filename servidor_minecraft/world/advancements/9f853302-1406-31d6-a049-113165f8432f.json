@@ -12863,73 +12863,73 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 00:31:39 +0000"
+      "log_spam_fixer": "2025-04-09 00:42:02 +0000"
     },
     "done": false
   },
@@ -12981,6 +12981,12 @@
     },
     "done": true
   },
+  "dimensionalpocketsii:pocket/wrench": {
+    "criteria": {
+      "wrench_create": "2025-04-09 00:35:43 +0000"
+    },
+    "done": true
+  },
   "dimensionalpocketsii:pocket/cell": {
     "criteria": {
       "cell": "2025-04-08 23:54:13 +0000"
@@ -12990,6 +12996,12 @@
   "justdirethings:recipes/misc/bow_eclipsealloy-homing": {
     "criteria": {
       "has_the_recipe": "2025-04-08 22:48:25 +0000"
+    },
+    "done": true
+  },
+  "dimensionalpocketsii:pocket/pocket_enhanced": {
+    "criteria": {
+      "pocket": "2025-04-09 00:39:42 +0000"
     },
     "done": true
   },
@@ -13020,6 +13032,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-04-08 23:15:51 +0000"
+    },
+    "done": true
+  },
+  "dimensionalpocketsii:pocket/core": {
+    "criteria": {
+      "core": "2025-04-09 00:37:37 +0000"
     },
     "done": true
   },
